@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","tags":["character","sf"],"noteIcon":"","created":"2024-01-26T22:19:08.531+10:30"}
+{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"character","location":"Zenanthi","player":"(Michael)","description":"French","race":"Human","gender":"M","class":"Rogue","occupation":"Sailor","faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","sf"],"icon":"FasCircleUser","aliases":"Jean","dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","dgPassFrontmatter":true,"created":"2024-01-26T22:19:08.531+10:30"}
 ---
 
 Jean-Luc Dupont
@@ -24,29 +24,29 @@ is [Missing his right hand](3.10.7_20230722%20Commotion%20at%20Candlekeep.md#Log
 Chasteau de Meullant
 
 **Father** (8 quarterings) 
-	is raised as commoner, 
-	gains privileges, 
-	doesn't forget past (good), 
-	marries artist (commoner),  Esmée?
-	does military service, 
-	has son, [####-07-08](https://en.wikipedia.org/wiki/List_of_name_days_in_France)
-		[[Sunset-Fortune/Compendium/Raoul\|Raoul]] (4 quarterings), 
-		hires teachers for [[Sunset-Fortune/Compendium/Raoul\|Raoul]] (prefers combat), 
-		teachers dislike commoner mother and turn [[Sunset-Fortune/Compendium/Raoul\|Raoul]] against her, 
-		[[Sunset-Fortune/Compendium/Raoul\|Raoul]] is brat, 
-	has son2, [####-07-13](https://en.wikipedia.org/wiki/List_of_name_days_in_France) 
-		raises son better(?), 
-		hires new teachers for son2, 
-		son2 is less brat,
-		but isn't very smart, 
-			still learns, 
-				but prefers artist stuff with mother 
-					~~(except politics, enjoys politics),~~ 
-	has daughter [####-07-22](https://en.wikipedia.org/wiki/List_of_name_days_in_France)
-		[[Sunset-Fortune/Compendium/Madeleine\|Madeleine]]
-		[[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] is best
-		[[Sunset-Fortune/Compendium/Raoul\|son2]] enjoys lessons (especially politics, but has opposing opinions to teachers), good at arts, ect.  
-	becomes widower, 
+- is raised as commoner, 
+- gains privileges, 
+- doesn't forget past (good), 
+- marries artist (commoner),  Esmée?
+- does military service, 
+- has son, [####-07-08](https://en.wikipedia.org/wiki/List_of_name_days_in_France)
+	- [[Sunset-Fortune/Compendium/Raoul\|Raoul]] (4 quarterings), 
+	- hires teachers for [[Sunset-Fortune/Compendium/Raoul\|Raoul]] (prefers combat), 
+	- teachers dislike commoner mother and turn [[Sunset-Fortune/Compendium/Raoul\|Raoul]] against her, 
+	- [[Sunset-Fortune/Compendium/Raoul\|Raoul]] is brat, 
+- has son2, [####-07-13](https://en.wikipedia.org/wiki/List_of_name_days_in_France) 
+	- raises son better(?), 
+	- hires new teachers for son2, 
+	- son2 is less brat,
+	- but isn't very smart, 
+		- still learns, 
+			- but prefers artist stuff with mother 
+				- ~~(except politics, enjoys politics),~~ 
+- has daughter [####-07-22](https://en.wikipedia.org/wiki/List_of_name_days_in_France)
+	- [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]]
+	- [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] is best
+	- [[Sunset-Fortune/Compendium/Raoul\|son2]] enjoys lessons (especially politics, but has opposing opinions to teachers), good at arts, ect.  
+- becomes widower, 
 	Happy peasents don't cause unrest.
 ## Childhood
 Born to a minor noble, Oliver de la Fère[^4] 
