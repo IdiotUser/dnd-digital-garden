@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sunset-fortune/compendium/20240816-t0940-the-red-rebellion/","tags":["sf","info/world"],"noteIcon":"","created":"2024-08-22T23:03:14.973+09:30"}
+{"date":"2024-08-16","campaign":"Sunset Fortune","world":"Tor","type":"info","tags":["sf","info/world"],"icon":"FasNoteSticky","dg-publish":true,"permalink":"/sunset-fortune/compendium/20240816-t0940-the-red-rebellion/","dgPassFrontmatter":true,"created":"2024-08-22T23:03:14.973+09:30"}
 ---
 
 > "Basically all the kingdoms of Alastria[^1] are monarch\[ies\]"

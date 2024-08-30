@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sunset-fortune/compendium/sunset-fortune-discord-recap-table-of-contents/","noteIcon":"","created":"2024-02-09T20:50:21.569+10:30"}
+{"dg-publish":true,"permalink":"/sunset-fortune/compendium/sunset-fortune-discord-recap-table-of-contents/","dgPassFrontmatter":true,"created":"2024-02-09T20:50:21.569+10:30"}
 ---
 
 # Table of Contents

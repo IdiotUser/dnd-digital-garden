@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/valor-of-rain/toll-the-dead/","noteIcon":"","created":"2024-08-26T16:34:37.439+09:30"}
+{"dg-publish":true,"permalink":"/valor-of-rain/toll-the-dead/","dgPassFrontmatter":true,"created":"2024-08-26T16:34:37.439+09:30"}
 ---
 
 The pendulum struck within his mind.  He could feel it hammering against the inside of his skull, followed by the throbbing pain that was the running of the bell.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sunset-fortune/timeline/","noteIcon":"","created":"2024-01-28T19:27:39.851+10:30"}
+{"campaign":"Sunset Fortune","world":"Tor","icon":"FasTimeline","dg-publish":true,"permalink":"/sunset-fortune/timeline/","dgPassFrontmatter":true,"created":"2024-01-28T19:27:39.851+10:30"}
 ---
 
 

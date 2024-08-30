@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/valor-of-rain/list-of-houses-of-alastria/","tags":["info/world","sf","VoR"],"noteIcon":"","created":"2024-08-25T21:38:38.004+09:30"}
+{"date":"2024-08-25","type":"list","world":"Tor","campaign":null,"description":null,"icon":"FasListUl","tags":["info/world","sf","VoR"],"dg-publish":true,"permalink":"/valor-of-rain/list-of-houses-of-alastria/","dgPassFrontmatter":true,"created":"2024-08-25T21:38:38.004+09:30"}
 ---
 
 This is a **list of houses of [[Alastria\|Alastria]]**, in alphabetical order. 

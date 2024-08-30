@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/valor-of-rain/chronicler/","tags":["character","VoR","#Mwarf"],"noteIcon":"","created":"2024-08-20T14:53:23.028+09:30"}
+{"date":"2023-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":[["Capitol"]],"player":"(Michael)","race":[["Gnome"]],"gender":"Male","class":[["Wizard"]],"occupation":[["Order of the Apostle#Steward|Steward"]],"faction":[["Order of the Apostle"]],"met":null,"rel":"Ally","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30"}
 ---
 
 

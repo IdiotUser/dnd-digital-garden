@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sunset-fortune/world/","tags":["sf","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2024-01-26T22:33:51.020+10:30"}
+{"dg-publish":true,"dg-home":true,"campaign":"Sunset Fortune","world":"Tor","icon":"FasEarthAsia","tags":["sf","gardenEntry"],"aliases":["Tor",null],"permalink":"/sunset-fortune/world/","dgPassFrontmatter":true,"created":"2024-01-26T22:33:51.020+10:30"}
 ---
 
 The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|Taelon]] - a mega continent comprised of 3 distinct regions, and Arrakis)
@@ -39,7 +39,7 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 | [[Sunset-Fortune/Sessions/3.10.4B_20230614 Down with the Bourgeoisie!\|3.10.4B_20230614 Down with the Bourgeoisie!]] | Filler                                     |
 | [[Sunset-Fortune/Sessions/3.10.4_20230531 Wanted\|3.10.4_20230531 Wanted]]                                           | gone fishing                               |
 | [[Sunset-Fortune/Sessions/3.10.5_20230629 Fan hits the narr-Ouch!\|3.10.5_20230629 Fan hits the narr-Ouch!]]         | Helix gets hissy                           |
-| [[Sunset-Fortune/Sessions/3.10.6_20230715 The Lost Session\|3.10.6_20230715 The Lost Session]]                       | Helix aftermath                            |
+| [[Sunset-Fortune/Sessions/3.10.7_20230722 Commotion at Candlekeep\|3.10.7_20230722 Commotion at Candlekeep]]         | Reaper Attacks Candlekeep                  |
 | [[Sunset-Fortune/Sessions/3.10.8_20240210\|3.10.8_20240210]]                                                         | Time travel, now in Valonier, find village |
 | [[Sunset-Fortune/Sessions/3.10.9_20240303\|3.10.9_20240303]]                                                         | Loot village, fight horde                  |
 | [[Sunset-Fortune/Sessions/3.10.10_20240317\|3.10.10_20240317]]                                                       | Arrive at keep                             |

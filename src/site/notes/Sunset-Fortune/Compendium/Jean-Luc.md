@@ -47,7 +47,7 @@ Chasteau de Meullant
 	- [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] is best
 	- [[Sunset-Fortune/Compendium/Raoul\|son2]] enjoys lessons (especially politics, but has opposing opinions to teachers), good at arts, ect.  
 - becomes widower, 
-	Happy peasents don't cause unrest.
+- Happy peasents don't cause unrest.
 ## Childhood
 Born to a minor noble, Oliver de la Fère[^4] 
 

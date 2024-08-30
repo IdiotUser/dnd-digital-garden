@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sunset-fortune/compendium/deejhai/","tags":["character"],"noteIcon":"","created":"2024-01-27T13:59:50.547+10:30"}
+{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"character","location":"Zenanthi","player":"(Axel)","description":null,"occupation":null,"faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character"],"icon":"FasUser","dg-publish":true,"permalink":"/sunset-fortune/compendium/deejhai/","dgPassFrontmatter":true,"created":"2024-01-27T13:59:50.547+10:30"}
 ---
 
 Deejhai is a (gender::male) (race:: Elf) (class:: Palladin-7) 

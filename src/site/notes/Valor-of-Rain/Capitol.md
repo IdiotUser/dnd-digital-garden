@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/valor-of-rain/capitol/","tags":["sf","location"],"noteIcon":"","created":"2024-08-25T13:53:37.900+09:30"}
+{"date":"2024-08-25","type":"location","world":"Tor","campaign":null,"description":null,"icon":"FasLocationDot","tags":["sf","location"],"dg-publish":true,"permalink":"/valor-of-rain/capitol/","dgPassFrontmatter":true,"created":"2024-08-25T13:53:37.900+09:30"}
 ---
 
 Capitol, unofficially Vieillesse-sur-Mer (Sunset-on-sea), is the capital city (French: capitale)

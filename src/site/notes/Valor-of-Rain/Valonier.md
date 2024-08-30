@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/valor-of-rain/valonier/","tags":["location","sf"],"noteIcon":"","created":"2024-02-06T17:51:08.996+10:30"}
+{"date":"2024-02-06","campaign":"Sunset Fortune","world":"Tor","type":"location","tags":["location","sf"],"icon":"FasLocationDot","dg-publish":true,"permalink":"/valor-of-rain/valonier/","dgPassFrontmatter":true,"created":"2024-02-06T17:51:08.996+10:30"}
 ---
 
 [[Languedoc_Map_1209.png|400]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/valor-of-rain/house-of-cobalt/","tags":["faction","sf"],"noteIcon":"","created":"2024-08-22T15:26:41.509+09:30"}
+{"date":"2024-08-22","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","description":null,"first mentioned":null,"met":null,"rel":null,"tags":["faction","sf"],"icon":"FasUsers","dg-publish":true,"permalink":"/valor-of-rain/house-of-cobalt/","dgPassFrontmatter":true,"created":"2024-08-22T15:26:41.509+09:30"}
 ---
 
 [/ˈvælwɑː/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English") [_VAL-wah_](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key "Help:Pronunciation respelling key"),

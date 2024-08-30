@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/valor-of-rain/mwarf-s-tome/","tags":["item","VoR","Mwarf"],"noteIcon":"","created":"2024-08-20T15:20:55.974+09:30"}
+{"date":"2024-08-20","campaign":"Valor of Rain","world":"Tor","game_date":null,"type":["object Object"],"attunement":false,"location":null,"description":null,"tags":["item","VoR","Mwarf"],"icon":"FasCube","dg-publish":true,"permalink":"/valor-of-rain/mwarf-s-tome/","dgPassFrontmatter":true,"created":"2024-08-20T15:20:55.974+09:30"}
 ---
 
 [[Mwarf\|Mwarf]]'s Tome (the chronicles of Mwarf, or simply, the Chronicles) is (Description:: a large tome, bound in the petrified bark of a long extinct tree)  It’s pages appear blank to those not verse in the [Druid's tongue](Druid#Druidic), only the patterns in the grain of the paper being visible.  Having proficiency in druidic allows one to interpret the patterns, unlocking a history to elder days.
