@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":true,"campaign":"Sunset Fortune","world":"Tor","icon":"FasEarthAsia","tags":["sf","gardenEntry"],"aliases":["Tor",null],"permalink":"/sunset-fortune/world/","dgPassFrontmatter":true,"created":"2024-01-26T22:33:51.020+10:30"}
+{"dg-publish":true,"dg-home":true,"campaign":"Sunset Fortune","world":"Tor","icon":"FasEarthAsia","tags":["sf","gardenEntry"],"aliases":"Tor,","permalink":"/sunset-fortune/world/","dgPassFrontmatter":true,"created":"2024-01-26T22:33:51.020+10:30","updated":"2024-09-03T18:08:59.009+09:30"}
 ---
 
 The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|Taelon]] - a mega continent comprised of 3 distinct regions, and Arrakis)
+
 > [!info]- World Map
 > ```leaflet 
 > id: leaflet-map 
@@ -18,6 +19,7 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 > marker: default, 39.983334, -82.983330, [[Note\|Note]] 
 > darkMode: false marker: Obelisk,-44.66268985052517,295.8514110908333,,,,
 
+> [!info] World Map ![Sunset-Fortune/Assets/World Map.jpg](/img/user/Sunset-Fortune/Assets/World%20Map.jpg)
 
 # [[The Company\|The Company]]
 ## Active
@@ -50,19 +52,23 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 
 
 # Factions
-| File                                                                            | desc. | rel | met | HQ                                    |
-| ------------------------------------------------------------------------------- | ----- | --- | --- | ------------------------------------- |
-| [[_Templates/Faction\|Faction]]                                              | \-    | \-  | \-  | \-                                    |
-| [[Valor-of-Rain/House of Cobalt\|House of Cobalt]]                           | \-    | \-  | \-  | [[la Fere\|la Fere]]                  |
-| [[Sunset-Fortune/Compendium/Jadeflags\|Jadeflags]]                           | \-    | \-  | \-  | \-                                    |
-| [[Sunset-Fortune/Compendium/Le Cormoran de Cretine\|Le Cormoran de Cretine]] | \-    | \-  | \-  | Cormoran de Cretine                   |
-| [[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]                 | \-    | \-  | \-  | [[Valor-of-Rain/Capitol\|Capitol]] |
-| [[Sunset-Fortune/Compendium/SolarSwords\|SolarSwords]]                       | \-    | \-  | \-  | \-                                    |
+| File                                                                            | desc. | rel | met | HQ                                      |
+| ------------------------------------------------------------------------------- | ----- | --- | --- | --------------------------------------- |
+| [[Sunset-Fortune/Compendium/Briskwalker\|Briskwalker]]                       | \-    | \-  | \-  | La Taramba                              |
+| [[Valor-of-Rain/Cult of Alstriza\|Cult of Alstriza]]                         | \-    | \-  | \-  | \-                                      |
+| [[_Templates/Faction\|Faction]]                                              | \-    | \-  | \-  | \-                                      |
+| [[Valor-of-Rain/House of Cobalt\|House of Cobalt]]                           | \-    | \-  | \-  | [[Valor-of-Rain/Valonier\|Valonier]] |
+| [[Sunset-Fortune/Compendium/Jadeflags\|Jadeflags]]                           | \-    | \-  | \-  | \-                                      |
+| [[Sunset-Fortune/Compendium/la Fere\|la Fere]]                               | \-    | \-  | \-  | Manor de la Fere                        |
+| [[Sunset-Fortune/Compendium/Le Cormoran de Cretine\|Le Cormoran de Cretine]] | \-    | \-  | \-  | Cormoran de Cretine                     |
+| [[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]                 | \-    | \-  | \-  | [[Valor-of-Rain/Capitol\|Capitol]]   |
+| [[Sunset-Fortune/Compendium/SolarSwords\|SolarSwords]]                       | \-    | \-  | \-  | \-                                      |
 
 { .block-language-dataview}
 # NPCs
 | File                                                  | race                                           | occupation                                             | faction | loc.                                  | rel                          | met    | status |
 | ----------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------ | ------- | ------------------------------------- | ---------------------------- | ------ | ------ |
+| [[Sunset-Fortune/Compendium/Helix\|Helix]]         | human                                          | Hexblade Fighter                                       | \-      | \-                                    | Begrudgingly tolerated       | has    | \-     |
 | [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] | human                                          | revolutionary                                          | \-      | [[Valor-of-Rain/Capitol\|Capitol]] | [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]]'s sister  | hasn't | \-     |
 | [[Sunset-Fortune/Compendium/Raoul\|Raoul]]         | human                                          | knight                                                 | \-      | [[Valor-of-Rain/Capitol\|Capitol]] | [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]]'s brother | hasn't | \-     |
 | [[Sunset-Fortune/Compendium/Vlarian\|Vlarian]]     | [[_Game Resources/_SRD/Races/Human\|Human]] | [[_Game Resources/_SRD/Classes/Sorcerer\|Sorcerer]] | \-      | \-                                    | \-                           | hasn't | \-     |
