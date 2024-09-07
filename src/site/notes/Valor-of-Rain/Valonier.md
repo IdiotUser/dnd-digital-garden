@@ -1,5 +1,5 @@
 ---
-{"date":"2024-02-06","campaign":"Sunset Fortune","world":"Tor","type":"location","tags":["location","sf"],"icon":"FasLocationDot","dg-publish":true,"permalink":"/valor-of-rain/valonier/","dgPassFrontmatter":true,"created":"2024-02-06T17:51:08.996+10:30"}
+{"date":"2024-02-06","campaign":"Sunset Fortune","world":"Tor","type":"location","tags":["location","sf","VoR","Valonier"],"icon":"FasLocationDot","dg-publish":true,"permalink":"/valor-of-rain/valonier/","dgPassFrontmatter":true,"created":"2024-02-06T17:51:08.996+10:30","updated":"2024-09-07T11:40:18.264+09:30"}
 ---
 
 [[Languedoc_Map_1209.png|400]]
@@ -7,12 +7,13 @@ Valonier, a vassal state of...
 Valonier, the [[Rainlands\|Rainlands]] (French: terres pluvieuses)
 Home to the [[Lord of Rain\|Lord of Rain]]
 
+vieillesse
 
-|           | Country     | Rel. country | Peoples (m/f)  | rel. Language    |
-| --------- | ----------- | ------------ | -------------- | ---------------- |
-| valéraise | La Valér    | valique      | le valérais(e) | langue valéraise |
-| - IPA     | /la/ va.lœʁ | /fʁɑ̃.sik/    | /lə va.lsɛːz/  | /lɑ̃ɡ va.lsɛːz/   |
-| Common    | valonier    | Valorian     | Valmen / Vals  | Valish           |
+|           | Country     | Rel. country | Peoples (m/f) | rel. Language    |
+| --------- | ----------- | ------------ | ------------- | ---------------- |
+| valéraise | La Valér    | valique      | le Valçais    | langue valéraise |
+| - IPA     | /la/ va.lœʁ | /fʁɑ̃.sik/   | /lə va.lsɛːz/ | /lɑ̃ɡ va.lsɛːz/  |
+| Common    | valonier    | Valorian     | Valmen / Vals | Valish           |
 etmology: valonier (from valeria, form vales, from val)
 
 # Territories 
@@ -24,10 +25,10 @@ etmology: valonier (from valeria, form vales, from val)
 
 # 
  
-| Division                                                             | ≈ Modern                                                            | Associated Title | e.g               | e.g                                                      |
+| Division                                                             | ≈ Modern                                                            | Associated Title | e.g (in world)    | e.g                                                      |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------- | ----------------- | -------------------------------------------------------- |
 | Realm                                                                | France                                                              | King/Queen       | Valonier          |                                                          |
-|                                                                      | Regions                                                             |                  |                   | [Lang](https://en.wikipedia.org/wiki/County_of_Toulouse) |
+| Region                                                               | Regions                                                             |                  |                   | [Lang](https://en.wikipedia.org/wiki/County_of_Toulouse) |
 | Grand Demense                                                        | [départements](https://en.wikipedia.org/wiki/Departments_of_France) |                  | Valeurs-de pluies | Paris                                                    |
 | Fief                                                                 | [Cantons](https://en.wikipedia.org/wiki/Cantons_of_France)          |                  | Valonier Proper   |                                                          |
 | [seigneurie](https://en.wikipedia.org/wiki/Manorialism#The_seigneur) | Communes                                                            | **seigneur**     |                   |                                                          |
