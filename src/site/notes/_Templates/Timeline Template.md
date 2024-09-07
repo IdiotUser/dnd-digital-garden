@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"<% tp.file.creation_date(\"YYYY-MM-DD\") %>","campaign":"Sunset Fortune","world":"Tor","game_date":0,"type":"timeline","tags":["timeline","sf"],"icon":"FasCalendarDays","permalink":"/templates/timeline-template/","dgPassFrontmatter":true,"created":"2024-01-29T12:27:35.622+10:30"}
+{"dg-publish":true,"date":"<% tp.file.creation_date(\"YYYY-MM-DD\") %>","campaign":"Sunset Fortune","world":"Tor","game_date":0,"type":"timeline","tags":["timeline","sf"],"icon":"FasCalendarDays","permalink":"/templates/timeline-template/","dgPassFrontmatter":true,"created":"2024-01-29T12:27:35.622+10:30","updated":"2024-08-27T23:11:38.931+09:30"}
 ---
 
 <span 

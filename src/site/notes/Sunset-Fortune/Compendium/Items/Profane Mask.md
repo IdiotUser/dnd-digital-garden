@@ -1,5 +1,5 @@
 ---
-{"date":"2024-01-29","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":{"t":"item","s":"wondrous item","c":"common"},"description":"This cloth mask converts the words that pass through it into vile obscenities","tags":["item"],"icon":"FasCube","dg-publish":true,"permalink":"/sunset-fortune/compendium/items/profane-mask/","dgPassFrontmatter":true,"created":"2024-01-29T16:10:02.809+10:30"}
+{"date":"2024-01-29","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":{"t":"item","s":"wondrous item","c":"common"},"description":"This cloth mask converts the words that pass through it into vile obscenities","tags":["item"],"icon":"FasCube","dg-publish":true,"permalink":"/sunset-fortune/compendium/items/profane-mask/","dgPassFrontmatter":true,"created":"2024-01-29T16:10:02.809+10:30","updated":"2024-08-30T13:20:59.796+09:30"}
 ---
 
 [attunement:: false]

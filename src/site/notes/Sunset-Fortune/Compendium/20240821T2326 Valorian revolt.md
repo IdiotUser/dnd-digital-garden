@@ -1,5 +1,5 @@
 ---
-{"date":null,"type":"info","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/sunset-fortune/compendium/20240821-t2326-valorian-revolt/","dgPassFrontmatter":true,"created":"2024-08-22T15:17:08.505+09:30"}
+{"date":null,"type":"info","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/sunset-fortune/compendium/20240821-t2326-valorian-revolt/","dgPassFrontmatter":true,"created":"2024-08-22T15:17:08.505+09:30","updated":"2024-08-27T23:24:36.970+09:30"}
 ---
 
 
@@ -48,8 +48,8 @@ Jean-Luc is an alias; a contraction of Jean de Luc
 	- John being a common given name, 
 	- Luc being any one of several small Valorian towns
 - thus, [[Sunset-Fortune/Compendium/Raoul\|Raoul]]'s lastname would not be Luc
-	- Following French naming conventions, \[Given name] of the \[place] it would probably be [[Sunset-Fortune/Compendium/Raoul\|Raoul]] de [[la Fere\|la Fere]]
-		- [[la Fere\|la Fere]] being the placeholder name for their father's lands.
+	- Following French naming conventions, \[Given name] of the \[place] it would probably be [[Sunset-Fortune/Compendium/Raoul\|Raoul]] de [[Sunset-Fortune/Compendium/la Fere\|la Fere]]
+		- [[Sunset-Fortune/Compendium/la Fere\|la Fere]] being the placeholder name for their father's lands.
 	-  Also note: he is the son of a nobleman (i.e, due to inherent his father's title)
 
 Note to self: How did [[Sunset-Fortune/Compendium/Raoul\|Raoul]] discover the plan?

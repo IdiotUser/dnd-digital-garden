@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-25","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["sf","faction"],"icon":"FasUsers","dg-publish":true,"permalink":"/valor-of-rain/order-of-the-apostle/","dgPassFrontmatter":true,"created":"2024-08-25T22:38:23.708+09:30"}
+{"date":"2024-08-25","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["sf","faction"],"icon":"FasUsers","dg-publish":true,"permalink":"/valor-of-rain/order-of-the-apostle/","dgPassFrontmatter":true,"created":"2024-08-25T22:38:23.708+09:30","updated":"2024-08-30T14:29:33.126+09:30"}
 ---
 
 **OVERVIEW**
@@ -10,7 +10,7 @@
 [locations::]
 
 **RELATIONS**
-[subunits::[[Valor-of-Rain/chronicler\|chronicler]]]
+[subunits::[[Valor-of-Rain/Chronicler\|Chronicler]]]
 [allies::Knowledge]
 [enemies::Disinformation]
 
@@ -25,9 +25,8 @@
 # Ideology
 
 
-
 # History
-
+The Chroniclers had once functioned as impartial observers of the natural course of history.  Keepers of knowledge and items of significance.  It wasn't until the burning of the stacks - whereby a large portion of the Chronicler's physical bibliotheca was consumed by a fire of unknown origin - and the fear that rogue elements would attempt to destroy the artefacts that the Chroniclers decided to disseminate the remains of the chronicles amongst themselves - becoming wandering stewards.
 
 
 
@@ -41,6 +40,6 @@
 
 
 # Equipment
-
-
+[[Valor-of-Rain/Mwarf's Tome\|Mwarf's Tome]]
+[[]]
 # Steward

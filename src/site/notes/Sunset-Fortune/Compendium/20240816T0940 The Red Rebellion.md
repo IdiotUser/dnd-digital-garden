@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-16","campaign":"Sunset Fortune","world":"Tor","type":"info","tags":["sf","info/world"],"icon":"FasNoteSticky","dg-publish":true,"permalink":"/sunset-fortune/compendium/20240816-t0940-the-red-rebellion/","dgPassFrontmatter":true,"created":"2024-08-22T23:03:14.973+09:30"}
+{"date":"2024-08-16","campaign":"Sunset Fortune","world":"Tor","type":"info","tags":["sf","info/world"],"icon":"FasNoteSticky","dg-publish":true,"permalink":"/sunset-fortune/compendium/20240816-t0940-the-red-rebellion/","dgPassFrontmatter":true,"created":"2024-08-22T23:03:14.973+09:30","updated":"2024-08-27T23:53:58.123+09:30"}
 ---
 
 > "Basically all the kingdoms of Alastria[^1] are monarch\[ies\]"
@@ -21,7 +21,7 @@ As part of their conditions,
 [^1]: Does this refer to the 7 Kingdoms?  Is Valonier one of them?
 [^2]: [Vanish gold](Leon%20Briskwaler)?  The guy in the tube?
 	yes
-[^3]: Who are the [[Briskwalker\|Briskwalker]]s?; one of the 7 kingdoms?; a vassal of one?
+[^3]: Who are the [[Sunset-Fortune/Compendium/Briskwalker\|Briskwalker]]s?; one of the 7 kingdoms?; a vassal of one?
  - 
 [^3.1]: Are the lineage names the same as the house names?  (i.e: House of Brisk)
 	Yes.
