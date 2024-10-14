@@ -38,8 +38,8 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 # Sessions
 | File                                                                                                                    | summary                                    |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [[Sunset-Fortune/Sessions/3.10.4B_20230614 Down with the Bourgeoisie!\|3.10.4B_20230614 Down with the Bourgeoisie!]] | Filler                                     |
 | [[Sunset-Fortune/Sessions/3.10.4_20230531 Wanted\|3.10.4_20230531 Wanted]]                                           | gone fishing                               |
+| [[Sunset-Fortune/Sessions/3.10.4B_20230614 Down with the Bourgeoisie!\|3.10.4B_20230614 Down with the Bourgeoisie!]] | Filler                                     |
 | [[Sunset-Fortune/Sessions/3.10.5_20230629 Fan hits the narr-Ouch!\|3.10.5_20230629 Fan hits the narr-Ouch!]]         | Helix gets hissy                           |
 | [[Sunset-Fortune/Sessions/3.10.7_20230722 Commotion at Candlekeep\|3.10.7_20230722 Commotion at Candlekeep]]         | Reaper Attacks Candlekeep                  |
 | [[Sunset-Fortune/Sessions/3.10.8_20240210\|3.10.8_20240210]]                                                         | Time travel, now in Valonier, find village |
