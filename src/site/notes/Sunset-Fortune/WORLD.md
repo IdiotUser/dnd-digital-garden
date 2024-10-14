@@ -62,7 +62,7 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 | [[Sunset-Fortune/Compendium/Jadeflags\|Jadeflags]]                           | \-    | \-  | \-  | \-                                      |
 | [[Sunset-Fortune/Compendium/la Fere\|la Fere]]                               | \-    | \-  | \-  | Manor de la Fere                        |
 | [[Sunset-Fortune/Compendium/Le Cormoran de Cretine\|Le Cormoran de Cretine]] | \-    | \-  | \-  | Cormoran de Cretine                     |
-| [[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]                 | \-    | \-  | \-  | [[Valor-of-Rain/Capitol\|Capitol]]   |
+| [[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]                 | \-    | \-  | \-  | Capitol                                 |
 | [[Sunset-Fortune/Compendium/SolarSwords\|SolarSwords]]                       | \-    | \-  | \-  | \-                                      |
 
 { .block-language-dataview}

@@ -1,8 +1,8 @@
 ---
-{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"[[Valor-of-Rain/Capitol\|Capitol]]","player":"(Michael)","race":"[[Gnome]]","gender":"Male","class":"[[Wizard]]","occupation":"[[Order of the Apostle#Steward]]","faction":"[[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf","chronicles"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2024-10-15T00:41:56.815+10:30"}
+{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"Capitol","player":"(Michael)","race":"[[Gnome]]","gender":"Male","class":"[[Wizard]]","occupation":"[[Order of the Apostle#Steward|Steward]]","faction":"[[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf","chronicles"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2024-10-15T00:49:38.809+10:30"}
 ---
 
-> *The off-white-robed figure approaches, walking with an uneven, yet purposeful gait.  He reaches out to you, looking to all the world like another of [[Capitol]]'s crippled beggars.
+> *The off-white-robed figure approaches, walking with an uneven, yet purposeful gait.  He reaches out to you, looking to all the world like another of [[Valor-of-Rain/Capitol\|Capitol]]'s crippled beggars.
 > "HARKON TRAVELER!  I am the custodian of the [chronicles of Mwarf](Mwarf's%20Tome.md), first herald of the one true God, [BARrY](BARrY); I am keeper of the [[Shard of the key to his tomb\|Shard of the key to his tomb]];  and last Steward of The [[Order of the Apostle]]."* 
 
 Seeming (Description:: a crippled beggar with delusions of grander), the chronicler bears only the artefacts of his order, and rags with which to show his humility.  He owns nothing and covets nothing; seeking only to retain knowledge so others may know.
