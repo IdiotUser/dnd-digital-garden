@@ -1,5 +1,5 @@
 ---
-{"date":"2024-09-03","campaign":"Valor of Rain","world":"Tor","hp":null,"ac":null,"icon":"FasSquarePersonConfined","tags":["VoR","chronicles","character"],"dg-publish":true,"permalink":"/valor-of-rain/chronicler-sheet/","dgPassFrontmatter":true,"created":"2024-09-03T17:58:21.274+09:30","updated":"2024-10-14T15:28:21.833+10:30"}
+{"dg-publish":true,"date":"2024-09-03","campaign":"Valor of Rain","world":"Tor","hp":null,"ac":null,"icon":"FasSquarePersonConfined","tags":["VoR","chronicles","character"],"permalink":"/valor-of-rain/chronicler-sheet/","dgPassFrontmatter":true,"created":"2024-09-03T17:58:21.274+09:30","updated":"2024-10-15T00:15:49.544+10:30"}
 ---
 
 
@@ -126,4 +126,4 @@ Prep: 6
  - [ ] [[_Game Resources/_SRD/Spells/Invisibility\|Invisibility]]
  - [ ] [[_Game Resources/_SRD/Spells/Enhance Ability\|Enhance Ability]]
  - [-] [[_Game Resources/_SRD/Spells/Maximillian's Earthen Grasp\|Maximillian's Earthen Grasp]]
- - [/] [[_Game Resources/_SRD/Spells/Vortex Warp\|Vortex Warp]]
+ - [/] [[_Game Resources/_SRD/Spells/Vortex Warp\|Vortex Warp]]  
