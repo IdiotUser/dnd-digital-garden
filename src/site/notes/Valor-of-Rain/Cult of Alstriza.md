@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2024-09-03","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["faction","VoR"],"icon":"FasUsers","permalink":"/valor-of-rain/cult-of-alstriza/","dgPassFrontmatter":true,"created":"2024-09-03T16:44:32.961+09:30","updated":"2024-10-14T13:47:57.337+10:30"}
+{"dg-publish":true,"date":"2024-09-03","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["faction","VoR"],"icon":"FasUsers","permalink":"/valor-of-rain/cult-of-alstriza/","dgPassFrontmatter":true,"created":"2024-09-03T16:44:32.961+09:30","updated":"2024-10-14T14:30:52.010+10:30"}
 ---
 
 **OVERVIEW**
@@ -17,6 +17,13 @@
 # 
 (description::)
 
+
+
+> [!Cult of Alstriza]
+> - BARrY is revered as a deity that leads people to Alstriza (paradise)
+> - Mwarf is the prophet of the faith
+> - A group of knights followed him and praised his name
+> - Cult involved (doing action) to further their distinction to achieve a place in Alstriza[^1]
 
 
 # Mission
@@ -42,3 +49,6 @@
 
 # Equipment
 
+
+
+[^1]:[Harlocke Family](https://docs.google.com/document/d/17jUQunA8RuHEjGni2In7sa49MJ713XFDA6A4ZlBIc_Y/edit?tab=t.0)

@@ -1,5 +1,5 @@
 ---
-{"date":"2024-09-03","campaign":"Valor of Rain","world":"Tor","hp":null,"ac":null,"icon":"FasSquarePersonConfined","tags":["VoR","chronicles","character"],"dg-publish":true,"permalink":"/valor-of-rain/chronicler-sheet/","dgPassFrontmatter":true,"created":"2024-09-03T17:58:21.274+09:30","updated":"2024-10-14T13:28:38.936+10:30"}
+{"date":"2024-09-03","campaign":"Valor of Rain","world":"Tor","hp":null,"ac":null,"icon":"FasSquarePersonConfined","tags":["VoR","chronicles","character"],"dg-publish":true,"permalink":"/valor-of-rain/chronicler-sheet/","dgPassFrontmatter":true,"created":"2024-09-03T17:58:21.274+09:30","updated":"2024-10-14T15:28:21.833+10:30"}
 ---
 
 
@@ -8,14 +8,14 @@
 | **Level**         | 3                              |
 | **Race**          | [[_Game Resources/_SRD/Races/Gnome#Forest\|Forest Gnome]] |
 | **[[_Game Resources/_SRD/Characterizations/Alignment\|Alignment]]** | Lawful Neutral                 |
-| **Background**    | (see: [[Valor-of-Rain/Chronicler\|Chronicler]])          |
+| **Background**    | *(see: [[Valor-of-Rain/Chronicler\|Chronicler]])*        |
 | Age               | 144                            |
 
 --- 
 # Stats 
 | HP  | AC  | Speed | Initiative |
 | :-: | :-: | :---: | :--------: |
-| 20  |     |  25   |            |
+| 20  | 13  |  25   |     +1     |
 
 | Hit Dice | Proficiency Bonus | Temp HP |
 | :------: | :---------------: | :-----: |
@@ -24,14 +24,15 @@
 --- 
 ## Abilities 
 ### [[_Game Resources/_SRD/Gameplay/Abilities\|Abilities]] 
-|    STR     | DEX | CON | INT | WIS | CHA |                  |
-| :--------: | :-: | :-: | :-: | :-: | :-: | ---------------- |
-|     8      | 13  | 14  | 17  | 14  |  8  | **Stats**        |
+|    STR     | DEX | CON | INT  | WIS  | CHA |                  |
+| :--------: | :-: | :-: | :--: | :--: | :-: | ---------------- |
+|     8      | 13  | 14  |  17  |  14  |  8  | **Stats**        |
 | -1
 { #strmod}
- | +1  | +2  | +3  | +2  | -1  | **Modifier**     |
-|            |     |     |     |     |     | **Saving Throw** |
+ | +1  | +2  |  +3  |  +2  | -1  | **Modifier**     |
+|            |     |     | +5 ● | +4 ● |     | **Saving Throw** |
 ### 
+Standard Array
 
 |       | STR | DEX | CON | INT | WIS | CHA |
 | ----- | --- | --- | --- | --- | --- | --- |
@@ -48,9 +49,9 @@
 |  ○   |   STR   | Athletics       | -1  |
 |  ○   |   CHA   | Deception       | -1  |
 |  ●   |   INT   | History         | +5  |
-|  ○   |   WIS   | Insight         | +4  |
+|  ●   |   WIS   | Insight         | +4  |
 |  ○   |   CHA   | Intimidation    | -1  |
-|  ●   |   INT   | Investigation   | +3  |
+|  ○   |   INT   | Investigation   | +3  |
 |  ○   |   WIS   | Medicine        | +2  |
 |  ○   |   WIS   | Nature          | +2  |
 |  ○   |   WIS   | Perception      | +2  |
@@ -68,14 +69,14 @@
 ***Gnome Cunning***. You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
 
 ***Languages***. You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
-
-**Natural Illusionist.** You know the [[_Game Resources/_SRD/Spells/Minor Illusion\|Minor Illusion]] cantrip. Intelligence is your spellcasting modifier for it.
-
-**Speak with Small Beasts.** Through sound and gestures, you may communicate simple ideas with Small or smaller beasts.
+[[_Game Resources/_SRD/Races/Gnome#Forest\|Forest Gnome]]
+## Background
+[[_Game Resources/_SRD/Characterizations/Backgrounds/Urchin#City Secrets\|City Secrets]] (urchin)
 ## Class
 [[_Game Resources/_SRD/Classes/Wizard#Spellcasting\|Spellcasting]]
 [[_Game Resources/_SRD/Classes/Wizard#Arcane Recovery\|Arcane Recovery]]
 [[_Game Resources/_SRD/Classes/Wizard#Order of Scribes\|Order of Scribes]]
+
 ## Proficiencies 
 **[Armour](Armor.md):** None
 
@@ -90,9 +91,9 @@ Common
 Gnomish - The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
 
 # Actions 
-| Name | Range | Atk Bonus | Damage | Properties |
-| :--- | :---: | :-------: | :----: | ---------- |
-|      |       |           |        |            |
+| Name          |  Range  | Atk Bonus | Damage | Properties             |
+| :------------ | :-----: | :-------: | :----: | ---------------------- |
+| Ritual Dagger | 0/20/60 |    +3     | 1d4 P  | Finesse, light, thrown |
 
 
 # [[Valor-of-Rain/Chronicler#Equipment\|Equipment]]
@@ -100,7 +101,7 @@ Gnomish - The Gnomish language, which uses the Dwarvish script, is renowned for 
 | CP  | SP  | EP  | GP  | PP  |
 | :-: | :-: | :-: | :-: | :-: |
 |     |     |     | 115 |     |
-
+Mwarf's Cloak (Hide armour, 12AC + Dex (max +2))
 Dagger (2gp)
 
 # Spells
