@@ -1,9 +1,9 @@
 ---
-{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"Capitol","player":"(Michael)","race":"[[Gnome]]","gender":"Male","class":"[[Chronicler]]","occupation":"Order of the Apostle#Steward","faction":"[[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf","chronicles"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2024-10-15T00:51:36.798+10:30"}
+{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"Capitol","player":"(Michael)","race":"Gnome","gender":"Male","class":"Chronicler","occupation":"Order of the Apostle#Steward","faction":"Order of the Apostle","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf","chronicles"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2024-10-15T00:52:50.107+10:30"}
 ---
 
 > *The off-white-robed figure approaches, walking with an uneven, yet purposeful gait.  He reaches out to you, looking to all the world like another of [[Valor-of-Rain/Capitol\|Capitol]]'s crippled beggars.
-> "HARKON TRAVELER!  I am the custodian of the [chronicles of Mwarf](Mwarf's%20Tome.md), first herald of the one true God, [BARrY](BARrY); I am keeper of the [[Shard of the key to his tomb\|Shard of the key to his tomb]];  and last Steward of The [[Order of the Apostle]]."* 
+> "HARKON TRAVELER!  I am the custodian of the [chronicles of Mwarf](Mwarf's%20Tome.md), first herald of the one true God, [BARrY](BARrY); I am keeper of the [[Shard of the key to his tomb\|Shard of the key to his tomb]];  and last Steward of The [[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]."* 
 
 Seeming (Description:: a crippled beggar with delusions of grander), the chronicler bears only the artefacts of his order, and rags with which to show his humility.  He owns nothing and covets nothing; seeking only to retain knowledge so others may know.
 # Relationships
