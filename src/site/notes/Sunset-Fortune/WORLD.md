@@ -57,6 +57,7 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 | [[Sunset-Fortune/Compendium/Briskwalker\|Briskwalker]]                       | \-    | \-  | \-  | La Taramba                              |
 | [[Valor-of-Rain/Cult of Alstriza\|Cult of Alstriza]]                         | \-    | \-  | \-  | \-                                      |
 | [[_Templates/Faction\|Faction]]                                              | \-    | \-  | \-  | \-                                      |
+| [[Valor-of-Rain/Harlocke Family\|Harlocke Family]]                           | \-    | \-  | \-  | [[Valor-of-Rain/Valonier\|Valonier]] |
 | [[Valor-of-Rain/House of Cobalt\|House of Cobalt]]                           | \-    | \-  | \-  | [[Valor-of-Rain/Valonier\|Valonier]] |
 | [[Sunset-Fortune/Compendium/Jadeflags\|Jadeflags]]                           | \-    | \-  | \-  | \-                                      |
 | [[Sunset-Fortune/Compendium/la Fere\|la Fere]]                               | \-    | \-  | \-  | Manor de la Fere                        |

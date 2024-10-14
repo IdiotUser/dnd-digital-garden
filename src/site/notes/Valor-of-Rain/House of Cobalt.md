@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-22","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","description":null,"first mentioned":null,"met":null,"rel":null,"tags":["faction","VoR"],"icon":"FasUsers","dg-publish":true,"permalink":"/valor-of-rain/house-of-cobalt/","dgPassFrontmatter":true,"created":"2024-08-22T15:26:41.509+09:30","updated":"2024-09-04T13:22:26.760+09:30"}
+{"date":"2024-08-22","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","description":null,"first mentioned":null,"met":null,"rel":null,"tags":["faction","VoR"],"icon":"FasUsers","dg-publish":true,"permalink":"/valor-of-rain/house-of-cobalt/","dgPassFrontmatter":true,"created":"2024-08-22T15:26:41.509+09:30","updated":"2024-10-14T13:48:03.564+10:30"}
 ---
 
 [/ˈvælwɑː/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English") [_VAL-wah_](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key "Help:Pr
@@ -43,7 +43,7 @@ Odo (French: Eudes or Odon [ød](https://en.wikipedia.org/wiki/Help:IPA/French "
 
 
 
-# Organization
+# Organisation
 https://en.wikipedia.org/wiki/French_heraldry#French_crowns_and_coronets
 
 

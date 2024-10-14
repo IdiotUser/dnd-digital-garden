@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-25","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["sf","faction"],"icon":"FasUsers","dg-publish":true,"permalink":"/valor-of-rain/order-of-the-apostle/","dgPassFrontmatter":true,"created":"2024-08-25T22:38:23.708+09:30","updated":"2024-08-30T14:29:33.126+09:30"}
+{"date":"2024-08-25","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["sf","faction"],"icon":"FasUsers","dg-publish":true,"permalink":"/valor-of-rain/order-of-the-apostle/","dgPassFrontmatter":true,"created":"2024-08-25T22:38:23.708+09:30","updated":"2024-10-14T13:48:08.571+10:30"}
 ---
 
 **OVERVIEW**
@@ -31,7 +31,7 @@ The Chroniclers had once functioned as impartial observers of the natural course
 
 
 
-# Organization
+# Organisation
 
 
 
