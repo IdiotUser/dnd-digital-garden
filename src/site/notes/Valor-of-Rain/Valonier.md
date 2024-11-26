@@ -1,8 +1,8 @@
 ---
-{"date":"2024-02-06","campaign":"Sunset Fortune","world":"Tor","type":"location","tags":["location","sf","VoR","Valonier"],"icon":"FasLocationDot","dg-publish":true,"permalink":"/valor-of-rain/valonier/","dgPassFrontmatter":true,"created":"2024-02-06T17:51:08.996+10:30","updated":"2024-10-11T13:54:58.862+10:30"}
+{"dg-publish":true,"date":"2024-02-06","campaign":"Sunset Fortune","world":"Tor","type":"location","tags":["location","sf","VoR","Valonier"],"icon":"FasLocationDot","permalink":"/valor-of-rain/valonier/","dgPassFrontmatter":true,"created":"2024-02-06T17:51:08.996+10:30","updated":"2024-10-25T15:27:46.461+10:30"}
 ---
 
-[[Languedoc_Map_1209.png|400]]
+![Valonier and surrounding regions.png|650](/img/user/Valor-of-Rain/Assets/Valonier%20and%20surrounding%20regions.png)
 Valonier, a vassal state of...
 Valonier, the [[Rainlands\|Rainlands]] (French: terres pluvieuses)
 Home to the [[Lord of Rain\|Lord of Rain]]
@@ -66,7 +66,7 @@ Saint names [List of name days in France](https://en.wikipedia.org/wiki/List_of_
 ## Mores and Folkway
 Cafes & Pastry
 
-Haute cuizine — Highly regarded fine dining at the grande restaurants of Capitol.  Characterised by exorbitant prices and exotic foods.  As such, accessible by the aristocracy and bourgeoisie almost exclusively.
+Haute cuizine — Highly regarded fine dining at the grande restaurants of [[Valor-of-Rain/Lutetia\|Lutetia]].  Characterised by exorbitant prices and exotic foods.  As such, accessible by the aristocracy and bourgeoisie almost exclusively.
 # Currency
 https://en.wikipedia.org/wiki/Solidus_(coin)#France
 Sou (gold)
@@ -75,3 +75,5 @@ siliquae (copper)
 factures
 
 It was as if an occult hand had... (significant number: 8)
+
+# Avoirdupois

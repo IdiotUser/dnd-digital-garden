@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-25","type":"list","world":"Tor","campaign":null,"description":null,"icon":"FasListUl","tags":["info/world","VoR","sf"],"dg-publish":true,"permalink":"/valor-of-rain/list-of-houses-of-alastria/","dgPassFrontmatter":true,"created":"2024-08-25T21:38:38.004+09:30","updated":"2024-10-14T13:53:29.754+10:30"}
+{"date":"2024-08-25","type":"list","world":"Tor","campaign":null,"description":null,"icon":"FasListUl","tags":["info/world","VoR","sf"],"dg-publish":true,"permalink":"/valor-of-rain/list-of-houses-of-alastria/","dgPassFrontmatter":true,"created":"2024-08-25T21:38:38.004+09:30","updated":"2024-10-18T15:16:36.160+10:30"}
 ---
 
 This is a **list of houses of [[Alastria\|Alastria]]**, in alphabetical order. 
@@ -10,6 +10,5 @@ This is a **list of houses of [[Alastria\|Alastria]]**, in alphabetical order.
 
 { .block-language-dataview}
 
-[[Briskwalkers\|Briskwalkers]]
 [[Silverharts\|Silverharts]]
 [[Amberlords\|Amberlords]]

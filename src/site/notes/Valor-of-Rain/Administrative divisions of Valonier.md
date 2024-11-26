@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-23","type":"info","world":"Tor","campaign":null,"description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/valor-of-rain/administrative-divisions-of-valonier/","dgPassFrontmatter":true,"created":"2024-08-23T15:05:28.587+09:30","updated":"2024-09-12T15:49:28.071+09:30"}
+{"date":"2024-08-23","type":"info","world":"Tor","campaign":null,"description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/valor-of-rain/administrative-divisions-of-valonier/","dgPassFrontmatter":true,"created":"2024-08-23T15:05:28.587+09:30","updated":"2024-10-18T15:24:44.003+10:30"}
 ---
 
 # 
@@ -40,5 +40,5 @@ Once the city of \[NAME], Valonier proper is the last of the Great Cities of Val
 **House of Cobalt** (Maison de Cobalt) — the royal household of Valonier (Valish: *Maison du Roi*)
 **Gabriel the vexxing** (Valish: *Gabriel le vexant*) — once King of Valonier (Valish: *Roi de Valér*), now lord of Rain
 **Valonier** (Valish: *La Valér*)  — The country of Valonier, located within the Lands of Rain (Valish: *Flotteterra*)
-**Capitol** (Valish: *capitale*), or Valonier city (Valish: *Valéré*), colloquially known as Valér-sur-Mer (lit. Valor-on-sea) — the capital city of Valonier; The seat of power within Flotteterra.
-**Capitol proper**, colloquially known as "capitol within-the-walls" (Valish: *Capitol Dan-les-Murs*) — the internal districts of Capitol
+**Lutetia** (Valish: *_Lutèce_*), or Valonier city (Valish: *Valéré*), colloquially known as Valér-sur-Mer (lit. Valor-on-sea) — the capital city of Valonier; The seat of power within Flotteterra.
+**Capitol proper**, colloquially known as "capitol within-the-walls" (Valish: *Capitol Dan-les-Murs*) — the internal districts of Lutetia

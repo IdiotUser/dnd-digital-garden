@@ -62,7 +62,7 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 | [[Sunset-Fortune/Compendium/Jadeflags\|Jadeflags]]                           | \-    | \-  | \-  | \-                                      |
 | [[Sunset-Fortune/Compendium/la Fere\|la Fere]]                               | \-    | \-  | \-  | Manor de la Fere                        |
 | [[Sunset-Fortune/Compendium/Le Cormoran de Cretine\|Le Cormoran de Cretine]] | \-    | \-  | \-  | Cormoran de Cretine                     |
-| [[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]                 | \-    | \-  | \-  | Capitol                                 |
+| [[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]                 | \-    | \-  | \-  | Lutecia                                 |
 | [[Sunset-Fortune/Compendium/SolarSwords\|SolarSwords]]                       | \-    | \-  | \-  | \-                                      |
 
 { .block-language-dataview}
@@ -70,8 +70,8 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 | File                                                  | race                                           | occupation                                             | faction | loc.                                  | rel                          | met    | status |
 | ----------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------ | ------- | ------------------------------------- | ---------------------------- | ------ | ------ |
 | [[Sunset-Fortune/Compendium/Helix\|Helix]]         | human                                          | Hexblade Fighter                                       | \-      | \-                                    | Begrudgingly tolerated       | has    | \-     |
-| [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] | human                                          | revolutionary                                          | \-      | [[Valor-of-Rain/Capitol\|Capitol]] | [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]]'s sister  | hasn't | \-     |
-| [[Sunset-Fortune/Compendium/Raoul\|Raoul]]         | human                                          | knight                                                 | \-      | [[Valor-of-Rain/Capitol\|Capitol]] | [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]]'s brother | hasn't | \-     |
+| [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] | human                                          | revolutionary                                          | \-      | [[Valor-of-Rain/Lutetia\|Lutetia]] | [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]]'s sister  | hasn't | \-     |
+| [[Sunset-Fortune/Compendium/Raoul\|Raoul]]         | human                                          | knight                                                 | \-      | [[Valor-of-Rain/Lutetia\|Lutetia]] | [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]]'s brother | hasn't | \-     |
 | [[Sunset-Fortune/Compendium/Vlarian\|Vlarian]]     | [[_Game Resources/_SRD/Races/Human\|Human]] | [[_Game Resources/_SRD/Classes/Sorcerer\|Sorcerer]] | \-      | \-                                    | \-                           | hasn't | \-     |
 
 { .block-language-dataview}

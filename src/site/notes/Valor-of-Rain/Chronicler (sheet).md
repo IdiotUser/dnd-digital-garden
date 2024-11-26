@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2024-09-03","campaign":"Valor of Rain","world":"Tor","hp":null,"ac":null,"icon":"FasSquarePersonConfined","tags":["VoR","chronicles","character"],"permalink":"/valor-of-rain/chronicler-sheet/","dgPassFrontmatter":true,"created":"2024-09-03T17:58:21.274+09:30","updated":"2024-10-15T00:15:49.544+10:30"}
+{"dg-publish":true,"date":"2024-09-03","campaign":"Valor of Rain","world":"Tor","hp":null,"ac":null,"icon":"FasSquarePersonConfined","tags":["VoR","chronicles","character"],"permalink":"/valor-of-rain/chronicler-sheet/","dgPassFrontmatter":true,"created":"2024-09-03T17:58:21.274+09:30","updated":"2024-10-18T12:11:34.886+10:30"}
 ---
 
 
@@ -30,7 +30,7 @@
 | -1
 { #strmod}
  | +1  | +2  |  +3  |  +2  | -1  | **Modifier**     |
-|            |     |     | +5 ● | +4 ● |     | **Saving Throw** |
+|     -1     | +1  | +2  | +5 ● | +4 ● | -1  | **Saving Throw** |
 ### 
 Standard Array
 
@@ -77,7 +77,7 @@ Standard Array
 [[_Game Resources/_SRD/Classes/Wizard#Arcane Recovery\|Arcane Recovery]]
 [[_Game Resources/_SRD/Classes/Wizard#Order of Scribes\|Order of Scribes]]
 
-## Proficiencies 
+## Proficiencies
 **[Armour](Armor.md):** None
 
 **[[_Game Resources/_SRD/Equipment/Weapons\|Weapons]]:** Daggers, darts, slings, quarterstaffs, light crossbows
@@ -91,9 +91,9 @@ Common
 Gnomish - The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
 
 # Actions 
-| Name          |  Range  | Atk Bonus | Damage | Properties             |
-| :------------ | :-----: | :-------: | :----: | ---------------------- |
-| Ritual Dagger | 0/20/60 |    +3     | 1d4 P  | Finesse, light, thrown |
+| Name          |  Range   | Atk Bonus | Damage | Properties             |
+| :------------ | :------: | :-------: | :----: | ---------------------- |
+| Ritual Dagger | 0, 20/60 |    +3     | 1d4 P  | Finesse, light, thrown |
 
 
 # [[Valor-of-Rain/Chronicler#Equipment\|Equipment]]
@@ -115,15 +115,15 @@ Prep: 6
 [[_Game Resources/_SRD/Spells/Mind Sliver\|Mind Sliver]]
 [[_Game Resources/_SRD/Spells/Prestidigitation\|Prestidigitation]]
 ## 1st lvl
- - [-] [[_Game Resources/_SRD/Spells/Absorb Elements\|Absorb Elements]]
+ - [x] [[_Game Resources/_SRD/Spells/Absorb Elements\|Absorb Elements]]
  - [ ] [[_Game Resources/_SRD/Spells/Feather Fall\|Feather Fall]]
  - [ ] [[_Game Resources/_SRD/Spells/Find Familiar\|Find Familiar]]
- - [-] [[_Game Resources/_SRD/Spells/Shield\|Shield]]
- - [-] [[_Game Resources/_SRD/Spells/Silent Image\|Silent Image]]
- - [-] [[_Game Resources/_SRD/Spells/Sleep\|Sleep]]
+ - [x] [[_Game Resources/_SRD/Spells/Shield\|Shield]]
+ - [x] [[_Game Resources/_SRD/Spells/Silent Image\|Silent Image]]
+ - [x] [[_Game Resources/_SRD/Spells/Sleep\|Sleep]]
 
 ## 2nd lvl
  - [ ] [[_Game Resources/_SRD/Spells/Invisibility\|Invisibility]]
  - [ ] [[_Game Resources/_SRD/Spells/Enhance Ability\|Enhance Ability]]
- - [-] [[_Game Resources/_SRD/Spells/Maximillian's Earthen Grasp\|Maximillian's Earthen Grasp]]
- - [/] [[_Game Resources/_SRD/Spells/Vortex Warp\|Vortex Warp]]  
+ - [x] [[_Game Resources/_SRD/Spells/Maximillian's Earthen Grasp\|Maximillian's Earthen Grasp]]
+ - [x] [[_Game Resources/_SRD/Spells/Vortex Warp\|Vortex Warp]]  

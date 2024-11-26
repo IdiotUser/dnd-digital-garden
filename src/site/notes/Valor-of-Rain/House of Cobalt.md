@@ -1,8 +1,8 @@
 ---
-{"date":"2024-08-22","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","description":null,"first mentioned":null,"met":null,"rel":null,"tags":["faction","VoR"],"icon":"FasUsers","dg-publish":true,"permalink":"/valor-of-rain/house-of-cobalt/","dgPassFrontmatter":true,"created":"2024-08-22T15:26:41.509+09:30","updated":"2024-10-14T13:53:09.994+10:30"}
+{"date":"2024-08-22","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","description":null,"first mentioned":null,"met":null,"rel":null,"tags":["faction","VoR"],"icon":"FasUsers","dg-publish":true,"permalink":"/valor-of-rain/house-of-cobalt/","dgPassFrontmatter":true,"created":"2024-08-22T15:26:41.509+09:30","updated":"2024-10-18T15:16:09.210+10:30"}
 ---
 
-[/ˈvælwɑː/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English") [_VAL-wah_](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key "Help:Pr
+[/ˈvælwɑː/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English") [_VAL-wah_](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key "Help:Pr)
 **OVERVIEW**
 [sub-type:: House]
 [status:: Active]
