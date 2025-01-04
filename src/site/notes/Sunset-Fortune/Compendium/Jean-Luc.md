@@ -1,5 +1,5 @@
 ---
-{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"character","location":"Zenanthi","player":"(Michael)","description":"French","race":"Human","gender":"M","class":"Rogue","occupation":"Sailor","faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","sf"],"icon":"FasCircleUser","aliases":"Jean","dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","dgPassFrontmatter":true,"created":"2024-01-26T22:19:08.531+10:30","updated":"2025-01-04T12:09:47.833+10:30"}
+{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"character","location":"Zenanthi","player":"(Michael)","description":"French","race":"Human","gender":"M","class":"Rogue","occupation":"Sailor","faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","sf"],"icon":"FasCircleUser","aliases":"Jean","dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","dgPassFrontmatter":true,"created":"2024-01-26T22:19:08.531+10:30","updated":"2025-01-04T12:27:48.288+10:30"}
 ---
 
 Jean-Luc Dupont, A transient Valorian political dissident 
@@ -69,7 +69,8 @@ In a sufficiently large city/state/populace (such as _La Valér_, [[Valor-of-Rai
 
 ![The Scarlet Pimpernel.png|100](/img/user/Sunset-Fortune/Assets/The%20Scarlet%20Pimpernel.png)
 He took a travelling name.  When he went, he went as Jean-Luc.
-## Life Aboard the [Cormorant](Le Cormoran de Crétine)
+## Piracy
+Life Aboard the [Cormorant](Le Cormoran de Crétine)
 Facing possible execution for his hand in the failed revolution, Jean-Luc fled about a merchant ship bound for [[Arakous\|Arakous]].  Shortly after getting under way, the ship was attacked by pirates.  Whereby an offer was made.  Jean-Luc could sink with the ship, or join the pirates on the high seas
 
 
