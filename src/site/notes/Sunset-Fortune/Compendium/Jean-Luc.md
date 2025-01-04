@@ -1,5 +1,5 @@
 ---
-{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"character","location":"Zenanthi","player":"(Michael)","description":"French","race":"Human","gender":"M","class":"Rogue","occupation":"Sailor","faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","sf"],"icon":"FasCircleUser","aliases":"Jean","dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","dgPassFrontmatter":true,"created":"2024-01-26T22:19:08.531+10:30","updated":"2024-08-31T20:36:35.618+09:30"}
+{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"character","location":"Zenanthi","player":"(Michael)","description":"French","race":"Human","gender":"M","class":"Rogue","occupation":"Sailor","faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","sf"],"icon":"FasCircleUser","aliases":"Jean","dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","dgPassFrontmatter":true,"created":"2024-01-26T22:19:08.531+10:30","updated":"2025-01-04T12:09:47.833+10:30"}
 ---
 
 Jean-Luc Dupont, A transient Valorian political dissident 
@@ -60,7 +60,7 @@ ou
 
 les enfants perdus (Forlorn Hope, literally *"the lost children"*)[^5]
 ## Revolution
-During his revolutionary insurgency, he adopted the *nom de guerre* "rouget de Marseillaise[^3]", where he learnt the Verlan argot (thieve's cant)
+During his revolutionary insurgency, he adopted the *nom de guerre* "rouget de Valseillaise[^3]", — rouget being a common porcine infectious disease, essentially, he was the pig killer of Valseille —  where he learnt the Verlan argot (thieve's cant).
 
 In a sufficiently large city/state/populace (such as _La Valér_, [[Valor-of-Rain/Valonier\|Valonier]]) might there be enough people of opposing views on the  to stage a revolt? Perhaps one that succeeds in occupying the population centre for long enough to declare independence as a republic and execute several nobles and aristocrats (including any memebers of the [Solarswords](SolarSwords.md) foolish enough to walk through town in their livery, or anyone known to associate with them to the perceived detriment of the people), but being quickly vanquished by a legion of [Solarswords](SolarSwords.md), leading to increased [Solarswords](SolarSwords.md) activity in attempts to prevent revolutionary ideas (perhaps leading to further discontent), execution of the ringleaders and imprisonment to anyone who participated in illegal activities, and the fleeing of certain members of said revolt?
 >  Well
