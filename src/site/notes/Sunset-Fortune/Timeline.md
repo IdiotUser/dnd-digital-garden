@@ -1,5 +1,5 @@
 ---
-{"campaign":"Sunset Fortune","world":"Tor","icon":"FasTimeline","dg-publish":true,"permalink":"/sunset-fortune/timeline/","dgPassFrontmatter":true,"created":"2024-01-28T19:27:39.851+10:30","updated":"2024-08-27T23:15:21.382+09:30"}
+{"campaign":"Sunset Fortune","world":"Tor","icon":"FasTimeline","dg-publish":true,"permalink":"/sunset-fortune/timeline/","dgPassFrontmatter":true,"created":"2024-01-28T19:27:39.851+10:30","updated":"2025-01-04T11:57:36.040+10:30"}
 ---
 
 
@@ -61,4 +61,4 @@ Current epoch (OG campaign)
 
 [^1]: [And 170 years later is now Sunset Fortune](https://discord.com/channels/@me/691509919119179856/1273797648553349204)
 [^2]: "*all humans arrived on earth thousands of years ago, they all spoke common, and broke off in different continents, the french dialect probably was made through an ancient oppression, to which the whole city knew most of it*" [\(Vlarian\, 20240128T1825)](https://discord.com/channels/@me/691509919119179856/1201073022828822548)
-[^3]: [[Sunset-Fortune/Compendium/20240809T2032\|20240809T2032]]
+[^3]: [[Sunset-Fortune/Compendium/20240809T2032 Solarswords\|20240809T2032 Solarswords]]olarswords]]

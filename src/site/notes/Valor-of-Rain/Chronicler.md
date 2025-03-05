@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"Capitol","player":"(Michael)","race":"Gnome","gender":"Male","class":"Chronicler","occupation":"Steward of the Order of the Apostle","faction":"Order of the Apostle","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf","chronicles"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2024-11-26T16:01:31.738+10:30"}
+{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"Capitol","player":"(Michael)","race":"Gnome","gender":"Male","class":"3 Wizard","occupation":"Steward of the Order of the Apostle","faction":"Order of the Apostle","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf","chronicles"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2025-03-05T15:46:03.794+10:30"}
 ---
 
 > *The off-white-robed figure approaches, walking with an uneven, yet purposeful gait.  They reach out to you, looking to all the world like another of [[Valor-of-Rain/Lutetia\|Lutetia]]'s crippled beggars.

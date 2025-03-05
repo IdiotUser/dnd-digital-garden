@@ -1,5 +1,5 @@
 ---
-{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"character","location":"Zenanthi","player":"(Michael)","description":"French","race":"Human","gender":"M","class":"Rogue","occupation":"Sailor","faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","sf"],"icon":"FasCircleUser","aliases":"Jean","dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","dgPassFrontmatter":true,"created":"2024-01-26T22:19:08.531+10:30","updated":"2025-01-04T12:27:48.288+10:30"}
+{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"character","location":"Zenanthi","player":"(Michael)","description":"French","race":"Human","gender":"M","class":"Rogue","occupation":"Sailor","faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","sf"],"icon":"FasCircleUser","aliases":"Jean","dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","dgPassFrontmatter":true,"created":"2024-01-26T22:19:08.531+10:30","updated":"2025-01-04T12:42:36.897+10:30"}
 ---
 
 Jean-Luc Dupont, A transient Valorian political dissident 
@@ -49,17 +49,17 @@ Chasteau de Meullant
 - becomes widower, 
 - Happy peasents don't cause unrest.
 ## Childhood
-Born to a minor noble, Oliver de la Fère[^4] 
+Born to a minor noble, Oliver de la Fère[^4] was... 
 
 > [!info]- Musketeer
 > As one of the junior units in the Royal Guard, the Musketeers were not closely linked to the royal family. Traditional bodyguard duties were in fact performed by the _[Gardes du Corps](<https://en.wikipedia.org/wiki/Gardes_du_Corps_du_Roi_%28France%29>)_ and the _[Cent-suisses](https://en.wikipedia.org/wiki/Swiss_Guards "Swiss Guards")_. Because of its later establishment, the Musketeers were open to the lower classes of French nobility or younger sons from noble families whose oldest sons served in the more prestigious _Garde du Corps_ and _Chevau-legers_ (Light Horse). The Musketeers, many of them still teenagers, soon gained a reputation for fighting spirit and unruly behaviour. 
 ## Adolescence
-jeunesse dorée (dandy, literally *"gilded youth"*)
-
 ou
 
 les enfants perdus (Forlorn Hope, literally *"the lost children"*)[^5]
 ## Revolution
+By day, Oliver used his status as a minor nobleman to attend parties and secure funding for the organisation.  He dressed lavishly, as a jeunesse dorée (dandy, literally *"gilded youth"*) was one to do, and practiced the art of auto-pogonotomy on every second morning to maintain his stunning physique.  He also partakes in the poisoning of those who he deems worthy (notably better dressed dandies, and those that have too much.
+
 During his revolutionary insurgency, he adopted the *nom de guerre* "rouget de Valseillaise[^3]", — rouget being a common porcine infectious disease, essentially, he was the pig killer of Valseille —  where he learnt the Verlan argot (thieve's cant).
 
 In a sufficiently large city/state/populace (such as _La Valér_, [[Valor-of-Rain/Valonier\|Valonier]]) might there be enough people of opposing views on the  to stage a revolt? Perhaps one that succeeds in occupying the population centre for long enough to declare independence as a republic and execute several nobles and aristocrats (including any memebers of the [Solarswords](SolarSwords.md) foolish enough to walk through town in their livery, or anyone known to associate with them to the perceived detriment of the people), but being quickly vanquished by a legion of [Solarswords](SolarSwords.md), leading to increased [Solarswords](SolarSwords.md) activity in attempts to prevent revolutionary ideas (perhaps leading to further discontent), execution of the ringleaders and imprisonment to anyone who participated in illegal activities, and the fleeing of certain members of said revolt?
