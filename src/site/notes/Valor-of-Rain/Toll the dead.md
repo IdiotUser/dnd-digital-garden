@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2024-08-26","type":"beast","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"fasScroll","tags":["info/world","chronicles"],"permalink":"/valor-of-rain/toll-the-dead/","dgPassFrontmatter":true,"created":"2024-08-26T16:34:37.439+09:30","updated":"2024-09-04T13:21:45.097+09:30"}
+{"dg-publish":true,"date":"2024-08-26","type":"info","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"fasScroll","tags":["info/world","chronicles"],"permalink":"/valor-of-rain/toll-the-dead/","dgPassFrontmatter":true,"created":"2024-08-26T16:34:37.439+09:30","updated":"2025-03-06T13:16:47.853+10:30"}
 ---
 
 The pendulum struck within his mind.  He could feel it hammering against the inside of his skull, followed by the throbbing pain that was the running of the bell.

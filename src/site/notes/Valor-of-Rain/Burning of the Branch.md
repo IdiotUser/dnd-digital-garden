@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-23","type":"Info","world":"Tor","campaign":null,"description":null,"icon":"fasScroll","tags":["Sf","info/world","Mwarf","chronicles"],"dg-publish":true,"permalink":"/valor-of-rain/burning-of-the-branch/","dgPassFrontmatter":true,"created":"2024-08-24T19:01:32.000+09:30","updated":"2024-10-25T11:32:38.187+10:30"}
+{"date":"2024-08-23","type":"info","world":"Tor","campaign":null,"description":null,"icon":"fasScroll","tags":["Sf","info/world","Mwarf","chronicles"],"dg-publish":true,"permalink":"/valor-of-rain/burning-of-the-branch/","dgPassFrontmatter":true,"created":"2024-08-24T19:01:32.000+09:30","updated":"2025-03-06T13:16:35.953+10:30"}
 ---
 
 *Legend speaks of [[Valor-of-Rain/Cult of Alstriza\|cult of Alstriza]] (COA) as a blasphemous sect of the church of \[PLACE] who began to worship a [[BARrY\|false god]].  It is said that the [[Paladins of Valonier\|Paladins of Valonier]] - greatest knights of the realm, 9 Peers to King Antioch the Just and True - were sent forth to vanquish the blasphemers at their place of unholy worship. They set fire to the church, putting a stop to the heretics in one fell swoop.  From there, the Paladin’s wrath is likened to their king (just and true) and acting with extreme prejudice.*

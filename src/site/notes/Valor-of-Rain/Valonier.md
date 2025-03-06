@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2024-02-06","campaign":"Sunset Fortune","world":"Tor","type":"location","tags":["location","sf","VoR","Valonier"],"icon":"FasLocationDot","permalink":"/valor-of-rain/valonier/","dgPassFrontmatter":true,"created":"2024-02-06T17:51:08.996+10:30","updated":"2024-10-25T15:27:46.461+10:30"}
+{"dg-publish":true,"date":"2024-02-06","campaign":"Sunset Fortune","world":"Tor","type":"location","tags":["location","sf","VoR","Valonier"],"icon":"FasLocationDot","permalink":"/valor-of-rain/valonier/","dgPassFrontmatter":true,"created":"2024-02-06T17:51:08.996+10:30","updated":"2025-03-06T17:43:42.146+10:30"}
 ---
 
 ![Valonier and surrounding regions.png|650](/img/user/Valor-of-Rain/Assets/Valonier%20and%20surrounding%20regions.png)
@@ -13,7 +13,7 @@ vieillesse
 | --------- | ----------- | ------------ | ------------- | ---------------- |
 | valéraise | La Valér    | valique      | le Valçais    | langue valéraise |
 | - IPA     | /la/ va.lœʁ | /fʁɑ̃.sik/   | /lə va.lsɛːz/ | /lɑ̃ɡ va.lsɛːz/  |
-| Common    | valonier    | Valorian     | Valmen / Vals | Valish           |
+| Common    | valonier    | Valorian     | Valmen / Vals | Valsh            |
 etmology: valonier (from valeria, form vales, from val)
 
 # Territories 
@@ -25,14 +25,6 @@ etmology: valonier (from valeria, form vales, from val)
 
 # 
  
-| Division                                                             | ≈ Modern                                                            | Associated Title | e.g (in world)    | e.g                                                      |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------- | ----------------- | -------------------------------------------------------- |
-| Realm                                                                | France                                                              | King/Queen       | Valonier          |                                                          |
-| Region                                                               | Regions                                                             |                  |                   | [Lang](https://en.wikipedia.org/wiki/County_of_Toulouse) |
-| Grand Demense                                                        | [départements](https://en.wikipedia.org/wiki/Departments_of_France) |                  | Valeurs-de pluies | Paris                                                    |
-| Fief                                                                 | [Cantons](https://en.wikipedia.org/wiki/Cantons_of_France)          |                  | Valonier Proper   |                                                          |
-| [seigneurie](https://en.wikipedia.org/wiki/Manorialism#The_seigneur) | Communes                                                            | **seigneur**     |                   |                                                          |
-
 
 </div></div>
 
@@ -43,8 +35,8 @@ etmology: valonier (from valeria, form vales, from val)
 Most names adhere to the convention of a given name(s), by-name
 
 e.g: \[NAME]-\[NAME] \[MARK*] \[NOUN]
-	[[Sunset-Fortune/Compendium/Jean-Luc\|Jean-Luc]] du Pont
-	John-Luke of the bridge
+	Valsh: *[[Sunset-Fortune/Compendium/Jean-Luc\|Jean-Luc]] du Pont*
+	Common: John-Luke of the bridge
 
 As *pont* is masculine, singular, and doesn't begin with a vowel/silent h, du is used.
 
@@ -56,7 +48,7 @@ As *pont* is masculine, singular, and doesn't begin with a vowel/silent h, du is
 | Masculine      | le         | un          | du   | du            |
 | vowel/silent h | l'         | de/d'       | d'   | de l'         |
 | Plural         | les        | des         | des  | des           |
-Table 1: French articles in Valorian by-names.
+Table 1: French articles in Valsh by-names.
 
 Name Resources:
 [[Extraordinary Book of Names.pdf]]
@@ -69,11 +61,17 @@ Cafes & Pastry
 Haute cuizine — Highly regarded fine dining at the grande restaurants of [[Valor-of-Rain/Lutetia\|Lutetia]].  Characterised by exorbitant prices and exotic foods.  As such, accessible by the aristocracy and bourgeoisie almost exclusively.
 # Currency
 https://en.wikipedia.org/wiki/Solidus_(coin)#France
-Sou (gold)
-siliquae (copper)
+
+Valonier still mints its own coin, however it is heavily regulated by the Red Treaties (Valsh: *Traités de la Rouges*)
+ > The Valorian mint was heavily regulated, the value of its coin being directly linked to equivalent Alastrian coin.  All Valorians must accept Alastrian coin as legal tender, and Valorian coin is not accepted outside of Valonier. [Barkley, M | History of the Red Rebellion](20240816T0940 The Red Rebellion)
+
+pièces des Sou (gold)
+pièces d'argent (Silver)
+pièces des siliquae (copper)
 
 factures
 
 It was as if an occult hand had... (significant number: 8)
 
 # Avoirdupois
+System of weights and measures

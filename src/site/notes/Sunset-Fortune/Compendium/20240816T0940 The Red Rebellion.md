@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-16","campaign":"Sunset Fortune","world":"Tor","type":"info","tags":["sf","info/world"],"icon":"FasNoteSticky","dg-publish":true,"permalink":"/sunset-fortune/compendium/20240816-t0940-the-red-rebellion/","dgPassFrontmatter":true,"created":"2024-08-22T23:03:14.973+09:30","updated":"2024-08-27T23:53:58.123+09:30"}
+{"date":"2024-08-16","campaign":"Sunset Fortune","world":"Tor","type":"info","tags":["sf","info/world"],"icon":"FasNoteSticky","dg-publish":true,"permalink":"/sunset-fortune/compendium/20240816-t0940-the-red-rebellion/","dgPassFrontmatter":true,"created":"2024-08-22T23:03:14.973+09:30","updated":"2025-03-06T18:08:59.693+10:30"}
 ---
 
 > "Basically all the kingdoms of Alastria[^1] are monarch\[ies\]"
@@ -11,6 +11,8 @@
 Throughout the Red Rebellion, all of the Valonian boarderlands were conquered, and much of the Heartlands.  After the assassination of Odo III, King of the Vals (latin: *rex Valorum*), what remained of the [[Amberlords\|Amberlords]] - House of Amber (*maison d'Ambre*) - surrendered.  As part of the signing of the peace treaty:
 1. The [[Amberlords\|Amberlords]]' frontier military was dissolved, all assets being seized.
 2. Captured lands of the Kingdom of Valonier, greatest of the 7 kingdoms, was split amongst the usurper's supporters.
+3. The Valorian mint was heavily regulated, the value of its coin being directly linked to equivalent Alastrian coin.  All Valorians must accept Alastrian coin as legal tender, and Valorian coin is not accepted outside of Valonier.
+4. St NAME and its lands became Solarsword teritory.
 
 As part of their conditions,
 1. What remained of the Amberlords, House of Amber (*maison d'Ambre*), were allowed sovereignty over the last demesne that had yet to be captured.
