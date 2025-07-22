@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-21","type":"info","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/sunset-fortune/compendium/20240821-t2326-valorian-revolt/","dgPassFrontmatter":true,"created":"2024-08-22T15:17:08.505+09:30","updated":"2025-01-04T12:30:55.758+10:30"}
+{"date":"2024-08-21","type":"info","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/sunset-fortune/compendium/20240821-t2326-valorian-revolt/","dgPassFrontmatter":true,"created":"2024-08-22T15:17:08.505+09:30","updated":"2025-03-07T15:39:29.811+10:30"}
 ---
 
 
@@ -100,8 +100,8 @@ Why haste?
 				- [[Sunset-Fortune/Compendium/Raoul\|Raoul]] has the power of authority (and several well armed guardsmen at his side)
 
 Which castle?
-	The Citadel of [[Valor-of-Rain/Lutetia\|Lutetia]]?
-			[[Valor-of-Rain/Lutetia\|Lutetia]] being the capital/city of Valonifer
+	The Citadel of [[Valor-of-Rain/Capitale\|Capitale]]?
+			[[Valor-of-Rain/Capitale\|Capitale]] being the capital/city of Valonifer
 
 ---
 > "*The Coup failed before it started, and the start of a much deeper conflict had begun.*"

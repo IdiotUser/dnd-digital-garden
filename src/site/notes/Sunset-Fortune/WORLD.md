@@ -38,12 +38,13 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 # Sessions
 | File                                                                                                                    | summary                                    |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [[Sunset-Fortune/Sessions/3.10.04_20230531 Wanted\|3.10.04_20230531 Wanted]]                                         | gone fishing                               |
 | [[Sunset-Fortune/Sessions/3.10.4B_20230614 Down with the Bourgeoisie!\|3.10.4B_20230614 Down with the Bourgeoisie!]] | Filler                                     |
-| [[Sunset-Fortune/Sessions/3.10.4_20230531 Wanted\|3.10.4_20230531 Wanted]]                                           | gone fishing                               |
-| [[Sunset-Fortune/Sessions/3.10.5_20230629 Fan hits the narr-Ouch!\|3.10.5_20230629 Fan hits the narr-Ouch!]]         | Helix gets hissy                           |
-| [[Sunset-Fortune/Sessions/3.10.7_20230722 Commotion at Candlekeep\|3.10.7_20230722 Commotion at Candlekeep]]         | Reaper Attacks Candlekeep                  |
-| [[Sunset-Fortune/Sessions/3.10.8_20240210\|3.10.8_20240210]]                                                         | Time travel, now in Valonier, find village |
-| [[Sunset-Fortune/Sessions/3.10.9_20240303\|3.10.9_20240303]]                                                         | Loot village, fight horde                  |
+| [[Sunset-Fortune/Sessions/3.10.05_20230629 Fan hits the narr-Ouch!\|3.10.05_20230629 Fan hits the narr-Ouch!]]       | Helix gets hissy                           |
+| [[Sunset-Fortune/Sessions/3.10.06_20230715 The Lost Session\|3.10.06_20230715 The Lost Session]]                     | [[Sunset-Fortune/Compendium/Helix\|Helix]] aftermath                        |
+| [[Sunset-Fortune/Sessions/3.10.07_20230722 Commotion at Candlekeep\|3.10.07_20230722 Commotion at Candlekeep]]       | Reaper Attacks Candlekeep                  |
+| [[Sunset-Fortune/Sessions/3.10.08_20240210\|3.10.08_20240210]]                                                       | Time travel, now in Valonier, find village |
+| [[Sunset-Fortune/Sessions/3.10.09_20240303\|3.10.09_20240303]]                                                       | Loot village, fight horde                  |
 | [[Sunset-Fortune/Sessions/3.10.10_20240317\|3.10.10_20240317]]                                                       | Arrive at keep                             |
 | [[Sunset-Fortune/Sessions/3.10.11_20240401\|3.10.11_20240401]]                                                       | Morning keep Meeting                       |
 | [[Sunset-Fortune/Sessions/3.10.14_20240526\|3.10.14_20240526]]                                                       | Dragon fight aftermath                     |
@@ -54,6 +55,7 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 # Factions
 | File                                                                            | desc. | rel | met | HQ                                      |
 | ------------------------------------------------------------------------------- | ----- | --- | --- | --------------------------------------- |
+| [[Valor-of-Rain/Aos\|Aos]]                                                   | \-    | \-  | \-  | [[moors\|moors]]                        |
 | [[Sunset-Fortune/Compendium/Briskwalker\|Briskwalker]]                       | \-    | \-  | \-  | La Taramba                              |
 | [[Valor-of-Rain/Cult of Alstriza\|Cult of Alstriza]]                         | \-    | \-  | \-  | \-                                      |
 | [[_Templates/Faction\|Faction]]                                              | \-    | \-  | \-  | \-                                      |
@@ -63,17 +65,16 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 | [[Sunset-Fortune/Compendium/la Fere\|la Fere]]                               | \-    | \-  | \-  | Manor de la Fere                        |
 | [[Sunset-Fortune/Compendium/Le Cormoran de Cretine\|Le Cormoran de Cretine]] | \-    | \-  | \-  | Cormoran de Cretine                     |
 | [[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]                 | \-    | \-  | \-  | Lutecia                                 |
-| [[Valor-of-Rain/Sidhe\|Sidhe]]                                               | \-    | \-  | \-  | \-                                      |
 | [[Sunset-Fortune/Compendium/SolarSwords\|SolarSwords]]                       | \-    | \-  | \-  | \-                                      |
 
 { .block-language-dataview}
 # NPCs
-| File                                                  | race                                           | occupation                                             | faction | loc.                                  | rel                          | met    | status |
-| ----------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------ | ------- | ------------------------------------- | ---------------------------- | ------ | ------ |
-| [[Sunset-Fortune/Compendium/Helix\|Helix]]         | human                                          | Hexblade Fighter                                       | \-      | \-                                    | Begrudgingly tolerated       | has    | \-     |
-| [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] | human                                          | revolutionary                                          | \-      | [[Valor-of-Rain/Lutetia\|Lutetia]] | [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]]'s sister  | hasn't | \-     |
-| [[Sunset-Fortune/Compendium/Raoul\|Raoul]]         | human                                          | knight                                                 | \-      | [[Valor-of-Rain/Lutetia\|Lutetia]] | [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]]'s brother | hasn't | \-     |
-| [[Sunset-Fortune/Compendium/Vlarian\|Vlarian]]     | [[_Game Resources/_SRD/Races/Human\|Human]] | [[_Game Resources/_SRD/Classes/Sorcerer\|Sorcerer]] | \-      | \-                                    | \-                           | hasn't | \-     |
+| File                                                  | race                                           | occupation                                             | faction | loc.                                         | rel                          | met    | status |
+| ----------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------ | ------- | -------------------------------------------- | ---------------------------- | ------ | ------ |
+| [[Sunset-Fortune/Compendium/Helix\|Helix]]         | human                                          | Hexblade Fighter                                       | \-      | \-                                           | Begrudgingly tolerated       | has    | \-     |
+| [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] | human                                          | revolutionary                                          | \-      | <ul><li><ul><li>Capitale</li></ul></li></ul> | [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]]'s sister  | hasn't | \-     |
+| [[Sunset-Fortune/Compendium/Raoul\|Raoul]]         | human                                          | knight                                                 | \-      | <ul><li><ul><li>Capitale</li></ul></li></ul> | [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]]'s brother | hasn't | \-     |
+| [[Sunset-Fortune/Compendium/Vlarian\|Vlarian]]     | [[_Game Resources/_SRD/Races/Human\|Human]] | [[_Game Resources/_SRD/Classes/Sorcerer\|Sorcerer]] | \-      | \-                                           | \-                           | hasn't | \-     |
 
 { .block-language-dataview}
 # Info

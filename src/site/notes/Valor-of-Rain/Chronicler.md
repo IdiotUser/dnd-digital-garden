@@ -1,11 +1,15 @@
 ---
-{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"Capitol","player":"(Michael)","race":"Gnome","gender":"Male","class":"3 Wizard","occupation":"Steward of the Order of the Apostle","faction":"Order of the Apostle","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf","chronicles"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2025-03-05T15:46:03.794+10:30"}
+{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"Capitol","player":"(Michael)","race":"Gnome","gender":"Male","class":"3 Wizard","occupation":"Steward of the Order of the Apostle","faction":"Order of the Apostle","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf","chronicles"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2025-07-04T14:43:51.686+09:30"}
 ---
 
-> *The off-white-robed figure approaches, walking with an uneven, yet purposeful gait.  They reach out to you, looking to all the world like another of [[Valor-of-Rain/Lutetia\|Lutetia]]'s crippled beggars.
+> *The off-white-robed figure approaches, walking with an uneven, yet purposeful gait.  They reach out to you, looking to all the world like another of [[Valor-of-Rain/Capitale\|Capitale]]'s crippled beggars.
 > "Dia duit!   I am the custodian of the [chronicles of Mwarf](Mwarf's%20Tome.md), first herald of the one true God, [BARrY](BARrY); I am keeper of the [[Shard of the key to his tomb\|Shard of the key to his tomb]];  and last Steward of The [[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]."* 
 
-Seeming (Description:: a crippled beggar with delusions of grander), the chronicler bears only the artefacts of his order, and rags with which to show his humility.  The Chronicler owns nothing and covets nothing ; seeking only to retain knowledge so others may know.
+
+Seeming (Description:: a crippled beggar with delusions of grander), the chronicler bears only the artefacts of an ancient order, and rags with which to show humility.  The Chronicler owns nothing and covets nought but information, seeking to harbour knowledge so others may know it in future.
+
+# Physical Description
+Bullet wound, left shoulder, sustained [[Valor-of-Rain/Sessions/4.01.03\|4.01.03]].
 # Relationships
 ## Paris *"[daltán](https://en.wiktionary.org/wiki/daltán#Old_Irish)"* Harlocke
 The Chronicler's relationship with the young heir may be seen as peculiar in that it is.  The Chronicler had a habit of entering libraries and the like without express permission, seeking knowledge.  Such visits were usually swiftly ended by security responding to complaints of foul odours and unsightly figures.  During one such visit, while Paris was searching for information regarding \[Something] — information that the library could not provide — The Chronicler approached him, claiming expertise in the subject.  This conversation was interrupted by security whom apologised to Paris for the intrusion and (removed the Chronicler from the premises or Paris handed the Chronicler his library card so they could continue their conversation.)
@@ -19,9 +23,15 @@ Occasionally Blanc would lead Paris through an open street and the pair would be
 { #44871d}
 
 
-# Vermin of Valonier
-Thanks to Blanc's gnomish heritage, 
+## [[Aos Eiscir\|Aos Eiscir]]
+The Chronicler belongs to the Aos Eiscir, whom formed much of The Chronicler's values.
 
+# Vermin of Valonier
+Thanks to Blanc's gnomish heritage, he shares communion with the vermin of the great city.  They gossip, sharing the goings on of the city, and in this way Blánc might not waste time with the broadsheets of yesterday.  Instead, Blánc may simply listen as the city makes its announcements.
+
+Note: Rats that reside on the surface are bigger, stronger, being closer to the food, fighting for the best food.  Those that must live in the under-city fight for any food at all.  They must avoid the hazards of flood, 
+
+https://www.owleyes.org/text/les-miserables/read/volume-v-jean-valjean-book-ii-the-intestine-of-the-leviathan-chapter-i-the-land-impoverished-by-the-sea
 # Equipment
 [[Valor-of-Rain/Mwarf's Tome\|Mwarf's Tome]]
 

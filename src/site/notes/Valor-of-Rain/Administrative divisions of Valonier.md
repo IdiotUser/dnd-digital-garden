@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-23","type":"info","world":"Tor","campaign":null,"description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/valor-of-rain/administrative-divisions-of-valonier/","dgPassFrontmatter":true,"created":"2024-08-23T15:05:28.587+09:30","updated":"2025-03-06T17:56:27.365+10:30"}
+{"date":"2024-08-23","type":"info","world":"Tor","campaign":null,"description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/valor-of-rain/administrative-divisions-of-valonier/","dgPassFrontmatter":true,"created":"2024-08-23T15:05:28.587+09:30","updated":"2025-03-07T15:39:29.892+10:30"}
 ---
 
 # 
@@ -32,10 +32,10 @@ comprised of the 12 preeminent vassals of the Realm.
 
 Each Grande Demesne was designated as either a pairie-duché or pairie-comté for duchies and counties respectively.
 
-## [[Valor-of-Rain/Lutetia\|Lutetia]]
-Commune du capital (literally, capital municipality) is the most populous commune in Valonier.  It serves as the *généralités* (pronunciation: [ʒeneʁalite](https://en.wikipedia.org/wiki/Help:IPA/French)) of the Valeurs-de pluies Grand Demense
-### [[Valonier Proper\|Valonier Proper]]
-Once the city of \[NAME], Valonier proper is the last of the Great Walled Cities of Val(?) within Valonier, and one of only 3 that are still standing.  Valonier proper is defined by the ancient stone walls that encircle its borders, separating it from the rest of the city and Greater Valonier.
+## [[]]
+Commune du capital (literally, capital municipality) is the most populous commune in Valonier.  It serves as the *généralités* (pronunciation: [ʒeneʁalite](https://en.wikipedia.org/wiki/Help:IPA/French)) of the Valeurs-de pluies Grand Demense.
+### [[Valor-of-Rain/Capitale\|Capitale]]
+Once the city of Lutetia, Valonier proper is the last of the Great Walled Cities of the Vals within Valonier, and one of only 3 that are still standing.  Valonier- is defined by the ancient stone walls that encircle its borders, separating it from the rest of the city and Greater Valonier.
 
 
 

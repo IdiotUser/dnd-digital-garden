@@ -1,5 +1,5 @@
 ---
-{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"character","location":"Zenanthi","player":"(Michael)","description":"French","race":"Human","gender":"M","class":"Rogue","occupation":"Sailor","faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","sf"],"icon":"FasCircleUser","aliases":"Jean","dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","dgPassFrontmatter":true,"created":"2024-01-26T22:19:08.531+10:30","updated":"2025-01-04T12:42:36.897+10:30"}
+{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"character","location":"Zenanthi","player":"(Michael)","description":"French","race":"Human","gender":"M","class":"Rogue","occupation":"Sailor","faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","sf"],"icon":"FasCircleUser","aliases":"Jean","dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","dgPassFrontmatter":true,"created":"2024-01-26T22:19:08.531+10:30","updated":"2025-03-14T22:52:59.332+10:30"}
 ---
 
 Jean-Luc Dupont, A transient Valorian political dissident 
@@ -13,7 +13,7 @@ Seaman's trousers
 tattered blue _casaque_ (cassock).  
 _Baudrier_ (Baldric) with accompanying double scabbard.
 A [Frankish](Valonier.md) denier on a necklace 
-is [Missing his right hand](3.10.7_20230722%20Commotion%20at%20Candlekeep.md#Log).  The story changes with each telling.
+is [Missing his right hand](3.10.07_20230722%20Commotion%20at%20Candlekeep.md#Log).  The story changes with each telling.
 
 # Backstory
 ## Family history 
