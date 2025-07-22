@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"date":"2026-07-15","type":"info","world":null,"description":null,"icon":"FasNoteSticky","tags":["info/world"],"permalink":"/autonomous-mountain-region-of-pahad/","dgPassFrontmatter":true,"created":"2025-07-15T15:14:23.569+09:30","updated":"2025-07-16T19:17:43.432+09:30"}
+{"dg-publish":true,"date":"2026-07-15","type":"info","world":null,"description":null,"icon":"FasNoteSticky","tags":["info/world"],"permalink":"/autonomous-mountain-region-of-pahad/","dgPassFrontmatter":true,"created":"2025-07-15T15:14:23.569+09:30","updated":"2025-07-22T12:46:33.802+09:30"}
 ---
 
-
+8
 # Culture
 Caste system
 
