@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"Capitol","player":"(Michael)","race":"Gnome","gender":"Male","class":"3 Wizard","occupation":"Steward of the Order of the Apostle","faction":"Order of the Apostle","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf","chronicles"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2025-07-04T14:43:51.686+09:30"}
+{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"Capitol","player":"(Michael)","race":"Gnome","gender":"Male","class":"3 Wizard","occupation":"Steward of the Order of the Apostle","faction":"Order of the Apostle","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf","chronicles"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2025-07-22T13:41:21.330+09:30"}
 ---
 
 > *The off-white-robed figure approaches, walking with an uneven, yet purposeful gait.  They reach out to you, looking to all the world like another of [[Valor-of-Rain/Capitale\|Capitale]]'s crippled beggars.
@@ -26,7 +26,7 @@ Occasionally Blanc would lead Paris through an open street and the pair would be
 ## [[Aos Eiscir\|Aos Eiscir]]
 The Chronicler belongs to the Aos Eiscir, whom formed much of The Chronicler's values.
 
-# Vermin of Valonier
+## Vermin of Valonier
 Thanks to Blanc's gnomish heritage, he shares communion with the vermin of the great city.  They gossip, sharing the goings on of the city, and in this way Blánc might not waste time with the broadsheets of yesterday.  Instead, Blánc may simply listen as the city makes its announcements.
 
 Note: Rats that reside on the surface are bigger, stronger, being closer to the food, fighting for the best food.  Those that must live in the under-city fight for any food at all.  They must avoid the hazards of flood, 
@@ -37,7 +37,7 @@ https://www.owleyes.org/text/les-miserables/read/volume-v-jean-valjean-book-ii-t
 
 The Chronicler dons a cloak of white rabbit pelts, those of the heathen order Mwarf once belonged to.  ([[_Game Resources/_SRD/Spells/Speak with Dead\|Speak with Dead]] allows communion with the creatures sacrificed to make the cloak)
 
-The [[Shard of the Key to the Tomb\|Shard of the Key to the Tomb]] of [BARrY](BARrY) is but a fragment of an [[ancient amulet\|ancient amulet]] once carried by Mwarf.  It was said to be able to unlock the [Box](BARrY%20Box) that held BARrY captive.  The location of the other fragments are lift to time.
+The [[Shard of the Key to the Tomb\|Shard of the Key to the Tomb]] of [BARrY](BARrY) is but a fragment of an [[ancient amulet\|ancient amulet]] once carried by Mwarf.  It was said to be able to unlock the [Box](BARrY%20Box) that held BARrY captive.  The location of the other fragments are lost to time.
 # Chronicles 
 The Chronicles speak of an ancient order of knights, The [[Valor-of-Rain/Cult of Alstriza\|Cult of Alstriza]], whom with one of Mwarf’s First Company belonged to.  The COA are fierce foes and great allies.  The  [[Chroniclers\|Chroniclers]] still holds vestiges of this ancient alliance.
 

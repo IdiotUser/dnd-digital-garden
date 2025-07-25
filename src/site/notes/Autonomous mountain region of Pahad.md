@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"date":"2026-07-15","type":"info","world":null,"description":null,"icon":"FasNoteSticky","tags":["info/world"],"permalink":"/autonomous-mountain-region-of-pahad/","dgPassFrontmatter":true,"created":"2025-07-15T15:14:23.569+09:30","updated":"2025-07-22T12:46:33.802+09:30"}
+{"dg-publish":true,"date":"2026-07-15","type":"info","world":null,"description":null,"icon":"FasNoteSticky","tags":["info/world"],"permalink":"/autonomous-mountain-region-of-pahad/","dgPassFrontmatter":true,"created":"2025-07-15T15:14:23.569+09:30","updated":"2025-07-25T15:44:31.305+09:30"}
 ---
 
-8
 # Culture
 Caste system
 
@@ -99,8 +98,9 @@ A large sapient species of primate, the Greugar are native to Pahad
 ## Zooxanthellae Symbionts
 The Zooxathellea (zooxs) has one unique feature in that it produces a positively buoyant lifting gas as a byproduct of its unique photosynthetic process.  This feature is foundational to the unique ecology of Pahad’s skies.  The substance is a miracle of nature that has yet to be explained by alchemy, wizardry, the divine, or even the novel perversities of the so-called “nature” philosophy.
 
+The Zooxs' unique photosynthetic process produces an extraordinary amount of heat, more so than would be gained via a direct thermo-voltaic process.  Whether this violates the conservation of energy is under ongoing investigation.  The prevailing belief is that the lifting gas has negative mass.
 ### Medusoza
-A class of medusoza whose medusa stage features a greatly expanded mesoglea (an interior sac between the epidermis and gastrodermis) that forms the animal’s aerostatic skeleton.  Lifting produced by zooxs on the epidermis is collected in the mesoglea, and diffuses through the gastrodermis by binding to the membrane.   Trailing tentacles extend through the opening, allowing for filter feeding.  Most species are categorised as plankton, as they possess no locomotive abilities, and are thus beholden to the winds.
+A class of medusoza whose medusa stage features a greatly expanded mesoglea (an interior sac between the epidermis and gastrodermis) that forms the animal’s aerostatic skeleton.  Lifting gas produced by zooxs on the epidermis is collected in the mesoglea, and diffuses through the gastrodermis by binding to the membrane.   Trailing tentacles extend through the opening, allowing for filter feeding.  Most species are categorised as plankton, as they possess no locomotive abilities, and are thus beholden to the winds.
 
   
 

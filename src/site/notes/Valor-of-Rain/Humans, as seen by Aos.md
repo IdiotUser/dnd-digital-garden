@@ -1,11 +1,10 @@
 ---
-{"date":"2024-08-23","type":"info","world":"Tor","campaign":null,"description":null,"icon":"fasScroll","tags":["Sf","info/world","Mwarf","chronicles"],"dg-publish":true,"permalink":"/valor-of-rain/humans-as-seen-by-aos/","dgPassFrontmatter":true,"created":"2025-07-25T15:28:24.621+09:30","updated":"2025-07-25T15:28:42.178+09:30"}
+{"date":"2024-07-23","type":"info","world":"Tor","campaign":null,"description":null,"icon":"fasScroll","tags":["info/world","chronicles","Aos"],"dg-publish":true,"permalink":"/valor-of-rain/humans-as-seen-by-aos/","dgPassFrontmatter":true,"created":"2025-07-25T15:28:24.621+09:30","updated":"2025-07-25T23:57:53.268+09:30"}
 ---
 
-
-At first the humans were a curiosity, word of the newborn sapients who inhabited the far off planes had not arrived before they were stumbling into the lands of the Aos, but soon time passed.
+At first the humans were a curiosity, word of the newborn sapients who inhabited the far off planes had not arrived before they were stumbling into the lands of the [[Valor-of-Rain/Aos\|Aos]], but soon time passed.
 As the humans settled into every unoccupied (and some recently occupied) hole, but the Aos payed little mind, and so time passed.
-Eventually, the humans emerged from their holes, and settled the land.  Never too close to the Aos, who were content to stay put.  And time passed.
+Eventually, the humans emerged from their holes, and settled the land. Never too close to the Aos, who were content to stay put.  And time passed.
 Soon the small human settlements had begun to work the land, turning plains into pasture, and forest into coppice, but the Aos were unaffected, and so time passed.
 It was not until the humans began to encroach on Aos territory that they noticed that the small settlements had swelled into villages and towns, and as the human tribes, kingdoms, and empires grew, so too did their consumption.  But then time passed.
 With every passing century of their expansion, they took ever more land, felling trees to make way for their farm land and eventually whole forests, but as the Aos had always been placid and unfettered, they remained unworried.  And so time passed.
@@ -18,12 +17,13 @@ The next day, the humans returned.  Similarly, time passed.
 One day, when the smoke had cleared and humans failed to return, the Aos grew wearily hopefully that the humans were finally content.  Hesitantly, time passed.
 When the humans failed to claim their newly scoured land, the Aos became uncharacteristically curious.  After three nights of waiting, they sent out a young scout.  And so time passed.
 When the scout returned some months later, the Aos were shocked to hear that there were more humans, on the far side of the kingdom and even more shocked to find they were at war.  The Aos were cautiously optimistic, but vowing that, when next the humans returned, the Aos would be ready.  Going forward, the Aos would maintain a presence within the human realms as well as on the human edges of their territory.  To keep an eye on things and provide warning if and when the humans next attacked.  And so time passed.
-One day, when the old humans returned to the forest, they found that they were unable to pass beneath the trees, finding themselves stupefied, facing the way they had come, the way that came the enemy.  And time passed
+One day, when the old humans returned to the forest, they found that they were unable to pass beneath the [[Valor-of-Rain/Orchadia\|trees]], finding themselves stupefied, facing the way they had come, the way that came the enemy.  And time passed
 Eventually, word passed that the old humans had lost the war, and new humans were soon seen tending the old fields.  Like before, these humans were weary of the Aos forest, and soon began building a wall around as well as patrolling it.  And so time passed.
 It became evident over time that the human sentries were aware that they were being followed by their Aos counterparts, rarely keeping the back to the forest for long.  Not until it was witnessed that a human fall and fail to rise did the Aos approach them.  When the human came to, it found itself propped against the wall with a sprig of moss beneath its tongue and a distinct numbness where there ought to have been pain.  When the human returned the next day - having suffered nothing but embarrassment and a shirt with distinctly less holes, it returned to the scene of yestereve and furtively deposited something in a gap between rocks.
 Once the human was out of sight, its Aos mirror, ever one for leaving no trace, retrieved the package to find it contained several travelling cakes.  The Aos, ever one for cakes, consumed them all immediately, washing them down with the mead that it carried for just such occasions.  Not to be out done, the Aos returned the cloth to the gap, this time containing a half-full flask of Mead.  So, as began the exchanges, did time pass.
 Eventually, both parties agreed, of their own fruition, that walking five feet besides each other was just as good as fifty.  Both the rangers (as they introduced themselves) and the Aos (as they were) gradually found their cautious patrols more so representing gentle strolls.  A sentiment aided no doubt by the distinct lack of anything remotely interesting happening on the human side of the wall.  And time passed.
 
+---
 Presently, both the king’s rangers and the Aos sentries still patrol the border side-by-side, a fact withheld from the rangers’ king, by unspoken agreement.
 Presently, the rangers are the only humans in regular contact with the Aos, despite never stepping foot over the wall.
 Presently, the Aos maintain their foreign observers - whom are expected to maintain their post for a number of years, lest something interesting happen.

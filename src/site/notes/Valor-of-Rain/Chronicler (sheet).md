@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"date":"2024-09-03","campaign":"Valor of Rain","world":"Tor","hp":"20","ac":"13","icon":"FasSquarePersonConfined","tags":["VoR","chronicles","character"],"permalink":"/valor-of-rain/chronicler-sheet/","dgPassFrontmatter":true,"created":"2024-09-03T17:58:21.274+09:30","updated":"2025-07-16T18:11:55.618+09:30"}
+{"dg-publish":true,"date":"2024-09-03","campaign":"Valor of Rain","world":"Tor","hp":"20","ac":"13","icon":"FasSquarePersonConfined","tags":["VoR","chronicles","character"],"permalink":"/valor-of-rain/chronicler-sheet/","dgPassFrontmatter":true,"created":"2024-09-03T17:58:21.274+09:30","updated":"2025-07-23T18:16:16.590+09:30"}
 ---
 
 
 | **Class**         | [[_Game Resources/_SRD/Classes/Wizard\|Wizard]]                     |
 | ----------------- | ------------------------------ |
-| **Level**         | 3                              |
+| **Level**         | 4                              |
 | **Race**          | [[_Game Resources/_SRD/Races/Gnome#Forest\|Forest Gnome]] |
 | **[[_Game Resources/_SRD/Characterizations/Alignment\|Alignment]]** | Lawful Neutral                 |
 | **Background**    | *(see: [[Valor-of-Rain/Chronicler\|Chronicler]])*        |
@@ -16,11 +16,11 @@
 | HP  | AC  | Speed | Initiative |
 | :-: | :-: | :---: | :--------: |
 | 20  | 13  |  25   |     +1     |
-HP: 8
+HP: 20
 
 | Hit Dice | Proficiency Bonus | Temp HP |
 | :------: | :---------------: | :-----: |
-|   9d8    |        +2         |         |
+| (9-6)d8  |        +2         |         |
 
 --- 
 ## Abilities 
@@ -112,13 +112,14 @@ Scroll of Weapon Enchanting (elven on metal)
 # Spells
 | Lvl   | 1st | 2nd |
 | ----- | --- | --- |
-| Slots | 3/4 | 1/2 |
+| Slots | 3/4 | 2/3 |
 Prep: 6
 ## Cantrips
 [[_Game Resources/_SRD/Spells/Minor Illusion\|Minor Illusion]] (racial)
 [[_Game Resources/_SRD/Spells/Message\|Message]]
 [[_Game Resources/_SRD/Spells/Mind Sliver\|Mind Sliver]]
 [[_Game Resources/_SRD/Spells/Prestidigitation\|Prestidigitation]]
+[[_Game Resources/_SRD/Spells/Mending\|Mending]]
 ## 1st lvl
  - [-] [[_Game Resources/_SRD/Spells/Absorb Elements\|Absorb Elements]]
  - [ ] [[_Game Resources/_SRD/Spells/Feather Fall\|Feather Fall]]
