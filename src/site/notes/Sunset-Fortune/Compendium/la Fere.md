@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2024-08-31","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["sf","faction"],"icon":"FasUsers","permalink":"/sunset-fortune/compendium/la-fere/","dgPassFrontmatter":true,"created":"2024-08-31T22:29:55.377+09:30","updated":"2025-07-22T13:39:25.913+09:30"}
+{"dg-publish":true,"date":"2024-08-31","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["sf","faction","Valonier"],"icon":"FasUsers","permalink":"/sunset-fortune/compendium/la-fere/","dgPassFrontmatter":true,"created":"2024-08-31T22:29:55.377+09:30","updated":"2025-07-23T17:08:43.994+09:30"}
 ---
 
 **OVERVIEW**
@@ -52,7 +52,7 @@ Chasteau de Meullant
 	- teachers dislike commoner mother and turn [[Sunset-Fortune/Compendium/Raoul\|Raoul]] against her, 
 	- [[Sunset-Fortune/Compendium/Raoul\|Raoul]] is brat, 
 - has [son2](Jean-luc), [####-07-13](https://en.wikipedia.org/wiki/List_of_name_days_in_France) 
-	- raises son better(?), 
+	- raises son2 (oliver) better(?), 
 	- hires new teachers for son2, 
 	- son2 is less brat,
 	- but isn't very smart, 
