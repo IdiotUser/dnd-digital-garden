@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"campaign":"Sunset Fortune","world":"Tor","icon":"FasEarthAsia","tags":["sf","gardenEntry"],"aliases":"Tor,","permalink":"/sunset-fortune/world/","dgPassFrontmatter":true,"created":"2024-01-26T22:33:51.020+10:30","updated":"2024-09-03T18:08:59.009+09:30"}
+{"dg-publish":true,"dg-home":false,"campaign":"Sunset Fortune","world":"Tor","icon":"FasEarthAsia","tags":["sf"],"aliases":"Tor","permalink":"/sunset-fortune/world/","dgPassFrontmatter":true,"created":"2024-01-26T22:33:51.020+10:30","updated":"2025-07-26T00:56:09.349+09:30"}
 ---
 
 The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|Taelon]] - a mega continent comprised of 3 distinct regions, and Arrakis)
@@ -40,8 +40,8 @@ The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|T
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | [[Sunset-Fortune/Sessions/3.10.04_20230531 Wanted\|3.10.04_20230531 Wanted]]                                         | gone fishing                               |
 | [[Sunset-Fortune/Sessions/3.10.4B_20230614 Down with the Bourgeoisie!\|3.10.4B_20230614 Down with the Bourgeoisie!]] | Filler                                     |
-| [[Sunset-Fortune/Sessions/3.10.05_20230629 Fan hits the narr-Ouch!\|3.10.05_20230629 Fan hits the narr-Ouch!]]       | Helix gets hissy                           |
 | [[Sunset-Fortune/Sessions/3.10.06_20230715 The Lost Session\|3.10.06_20230715 The Lost Session]]                     | [[Sunset-Fortune/Compendium/Helix\|Helix]] aftermath                        |
+| [[Sunset-Fortune/Sessions/3.10.05_20230629 Fan hits the narr-Ouch!\|3.10.05_20230629 Fan hits the narr-Ouch!]]       | Helix gets hissy                           |
 | [[Sunset-Fortune/Sessions/3.10.07_20230722 Commotion at Candlekeep\|3.10.07_20230722 Commotion at Candlekeep]]       | Reaper Attacks Candlekeep                  |
 | [[Sunset-Fortune/Sessions/3.10.08_20240210\|3.10.08_20240210]]                                                       | Time travel, now in Valonier, find village |
 | [[Sunset-Fortune/Sessions/3.10.09_20240303\|3.10.09_20240303]]                                                       | Loot village, fight horde                  |
