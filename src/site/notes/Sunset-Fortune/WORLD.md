@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"campaign":"Sunset Fortune","world":"Tor","icon":"FasEarthAsia","tags":["sf"],"aliases":"Tor","permalink":"/sunset-fortune/world/","dgPassFrontmatter":true,"created":"2024-01-26T22:33:51.020+10:30","updated":"2025-07-26T00:07:56.731+09:30"}
+{"dg-publish":true,"dg-home":false,"campaign":"Sunset Fortune","world":"Tor","icon":"FasEarthAsia","tags":["sf"],"aliases":"Tor","permalink":"/sunset-fortune/world/","dgPassFrontmatter":true,"created":"2024-01-26T22:33:51.020+10:30","updated":"2025-07-26T00:09:07.500+09:30"}
 ---
 
 The world of Tor; comprised of 3 continents ([[Alastria\|Alastria]], [[Taelon\|Taelon]] - a mega continent comprised of 3 distinct regions, and Arrakis)
