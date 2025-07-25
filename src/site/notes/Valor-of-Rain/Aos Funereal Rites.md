@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"icon":"FasNoteSticky","permalink":"/valor-of-rain/aos-funereal-rites/","dgPassFrontmatter":true,"created":"2025-07-23T17:18:17.179+09:30","updated":"2025-07-26T00:12:04.928+09:30"}
+{"dg-publish":true,"icon":"FasNoteSticky","permalink":"/valor-of-rain/aos-funereal-rites/","dgPassFrontmatter":true,"created":"2025-07-23T17:18:17.179+09:30","updated":"2025-07-26T00:12:20.627+09:30"}
 ---
 
 # Last Rites
