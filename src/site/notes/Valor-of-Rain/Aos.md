@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2025-03-05","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["sf","faction"],"icon":"FasUsers","permalink":"/valor-of-rain/aos/","dgPassFrontmatter":true,"created":"2025-03-05T16:06:21.757+10:30","updated":"2025-07-24T02:48:49.467+09:30"}
+{"dg-publish":true,"date":"2025-03-05","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["sf","faction"],"icon":"FasUsers","permalink":"/valor-of-rain/aos/","dgPassFrontmatter":true,"created":"2025-03-05T16:06:21.757+10:30","updated":"2025-07-25T22:53:35.827+09:30"}
 ---
 
 **OVERVIEW**
@@ -7,7 +7,7 @@
 [status:: Active]
 [founded::]
 [HQ:: [[moors\|moors]]]
-[locations::[[moors\|moors]]]
+[locations::The [[moors\|moors]],[[Valor-of-Rain/Orchadia\|Orchadia]]]
 
 **RELATIONS**
 [subunits::[[Valor-of-Rain/Chronicler\|Chronicler]]]
@@ -20,13 +20,15 @@
 
 
 The Aos *(pronunciation: \[iːsˠ] is/s)* (Lit: *"people"*)
-are an isolated ethnic and religious  group of gnomes, endemic to the [[moors\|moors]].  of southern Valonier.
+are an isolated ethnic and religious  group of gnomes, endemic to the [[moors\|moors]] of southern Valonier.
 
 They speak primarily Asc, however multilingualism is common among prospective Aosa.
 The nature of Asc as a "translator's" language allows it to be written in any script, however Ascii is most common, being developed alongside the Asc language.
 
 Much like the Aos people, Asc 
 # Mission
+
+*see [[Valor-of-Rain/Humans, as seen by Aos\|Humans, as seen by Aos]] for motivations*
 
 The goal of any Aos is the preservation of knowledge and culture.
 # Ideology
@@ -63,7 +65,6 @@ Northern and Southern Aos pronounce Aos as \[iːsˠ] and \[eːsˠ] respectively.
 
 # Equipment
 
-
-
+[[Valor-of-Rain/Orchadia\|Orchadia]]
 
 The Aos Eiscir *(pronunciation: \[iːsˠ] /ˈɛʃcəɾʲ/ is/s esh kid)* (Lit: *"ridge people"*)
