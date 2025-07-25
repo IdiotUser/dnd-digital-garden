@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/change-log/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-07-25T23:48:52.071+09:30","updated":"2025-07-26T00:07:23.469+09:30"}
+{"dg-publish":true,"dg-home":true,"permalink":"/change-log/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-07-25T23:48:52.071+09:30","updated":"2025-07-26T00:12:23.656+09:30"}
 ---
 
 
