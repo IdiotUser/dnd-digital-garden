@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-24","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"npc","location":[["Capitale"]],"description":null,"faction":null,"status":null,"tags":["sf","npc","VoR"],"icon":"FasPerson","aliases":"Raoul","dg-publish":true,"permalink":"/sunset-fortune/compendium/raoul/","dgPassFrontmatter":true,"created":"2024-08-25T00:56:32.307+09:30","updated":"2025-07-22T13:42:10.017+09:30"}
+{"date":"2024-08-24","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"npc","location":[["Capitale"]],"description":null,"faction":null,"status":null,"tags":null,"icon":"FasPerson","aliases":"Raoul","dg-publish":true,"permalink":"/sunset-fortune/compendium/raoul/","dgPassFrontmatter":true,"created":"2024-08-25T00:56:32.307+09:30","updated":"2025-08-21T12:57:49.000+09:30"}
 ---
 
 Raoul de [[Sunset-Fortune/Compendium/la Fere\|la Fere]] is a (gender::male) (race::human) (occupation::knight) 

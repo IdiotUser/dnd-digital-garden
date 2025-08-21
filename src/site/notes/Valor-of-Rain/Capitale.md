@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-25","type":"location","world":"Tor","campaign":null,"description":null,"icon":"FasLocationDot","tags":["sf","location"],"dg-publish":true,"permalink":"/valor-of-rain/capitale/","dgPassFrontmatter":true,"created":"2024-08-25T13:53:37.900+09:30","updated":"2025-03-07T15:49:53.665+10:30"}
+{"date":"2024-08-25","type":"location","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"FasLocationDot","tags":["location","VoR"],"dg-publish":true,"permalink":"/valor-of-rain/capitale/","dgPassFrontmatter":true,"created":"2024-08-25T13:53:37.900+09:30","updated":"2025-08-21T12:40:42.359+09:30"}
 ---
 
 ![Valonier Proper.jpg](/img/user/Valor-of-Rain/Assets/Valonier%20Proper.jpg)
@@ -27,7 +27,7 @@ La Valér-Dans-Les-Mur / Valonier-in-the-walls
 						- [[Sunset-Fortune/Compendium/Raoul\|Raoul]] was instated to replace rogue elements
 							- Answers directly to the sovereign (a relationship not entirely professional)
 			Trains on the Sovereign land behind the Citadel
-			Operates a secret foreign brotherhood of knights comprised of immigrants, refugees, criminals, and asylum seekers.  Once training is completed, such knights are awarded citizenship.  If they are to fail, they are desposed of.
+			Operates a secret foreign brotherhood of knights comprised of immigrants, refugees, criminals, and asylum seekers.  Once training is completed, such knights are awarded citizenship.  If they are to fail, they are disposed of.
 		\[port] (Aristocracy) Freman%%
 
 

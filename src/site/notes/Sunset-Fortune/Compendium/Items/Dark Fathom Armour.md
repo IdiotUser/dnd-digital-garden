@@ -1,5 +1,5 @@
 ---
-{"date":"2024-01-29","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":{"t":"item","s":"armour","r":"very rare"},"location":"Jean-Luc","description":"This dark, sea-soaked suit of armour smells of brine and is covered in eldritch runes","tags":["item","sf"],"icon":"FasCube","dg-publish":true,"permalink":"/sunset-fortune/compendium/items/dark-fathom-armour/","dgPassFrontmatter":true,"created":"2024-01-29T22:01:20.547+10:30","updated":"2024-08-30T13:20:16.556+09:30"}
+{"date":"2024-01-29","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"item/armour","location":"Jean-Luc","description":"This dark, sea-soaked suit of armour smells of brine and is covered in eldritch runes","tags":["sf"],"icon":"FasCube","dg-publish":true,"permalink":"/sunset-fortune/compendium/items/dark-fathom-armour/","dgPassFrontmatter":true,"created":"2024-01-29T22:01:20.547+10:30","updated":"2025-08-21T12:52:03.823+09:30"}
 ---
 
 [attunement:: true]

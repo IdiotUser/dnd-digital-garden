@@ -1,5 +1,5 @@
 ---
-{"date":"2024-07-23","type":"info","world":"Tor","campaign":null,"description":null,"icon":"fasScroll","tags":["info/world","chronicles","Aos"],"dg-publish":true,"permalink":"/valor-of-rain/humans-as-seen-by-aos/","dgPassFrontmatter":true,"created":"2025-07-25T15:28:24.621+09:30","updated":"2025-07-25T23:57:53.268+09:30"}
+{"date":"2024-07-23","type":"info","world":"Tor","campaign":null,"description":null,"icon":"fasScroll","tags":["info/world","Aos"],"dg-publish":true,"permalink":"/valor-of-rain/humans-as-seen-by-aos/","dgPassFrontmatter":true,"created":"2025-07-25T15:28:24.621+09:30","updated":"2025-08-07T13:29:33.143+09:30"}
 ---
 
 At first the humans were a curiosity, word of the newborn sapients who inhabited the far off planes had not arrived before they were stumbling into the lands of the [[Valor-of-Rain/Aos\|Aos]], but soon time passed.

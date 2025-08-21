@@ -1,9 +1,9 @@
 ---
-{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"Capitol","player":"(Michael)","race":"Gnome","gender":"Male","class":"3 Wizard","occupation":"Steward of the Order of the Apostle","faction":"Order of the Apostle","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","#Mwarf","chronicles"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2025-07-22T13:41:21.330+09:30"}
+{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"pc","location":"Capitol","player":"(Michael)","race":"Gnome","gender":"Male","class":"3 Wizard","occupation":"Steward of the Order of the Apostle","faction":"Order of the Apostle","met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","Aos"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/chronicler/","dgPassFrontmatter":true,"created":"2024-08-20T14:53:23.028+09:30","updated":"2025-08-21T12:58:18.486+09:30"}
 ---
 
 > *The off-white-robed figure approaches, walking with an uneven, yet purposeful gait.  They reach out to you, looking to all the world like another of [[Valor-of-Rain/Capitale\|Capitale]]'s crippled beggars.
-> "Dia duit!   I am the custodian of the [chronicles of Mwarf](Mwarf's%20Tome.md), first herald of the one true God, [BARrY](BARrY); I am keeper of the [[Shard of the key to his tomb\|Shard of the key to his tomb]];  and last Steward of The [[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]."* 
+> "Dia duit!   I am the custodian of the [chronicles of Mwarf](Mwarf's%20Tome.md), first herald of the one true God, [BARrY](BARrY.md); I am keeper of the [[Shard of the key to his tomb\|Shard of the key to his tomb]];  and last Steward of The [[Valor-of-Rain/Order of the Apostle\|Order of the Apostle]]."* 
 
 
 Seeming (Description:: a crippled beggar with delusions of grander), the chronicler bears only the artefacts of an ancient order, and rags with which to show humility.  The Chronicler owns nothing and covets nought but information, seeking to harbour knowledge so others may know it in future.
@@ -23,7 +23,7 @@ Occasionally Blanc would lead Paris through an open street and the pair would be
 { #44871d}
 
 
-## [[Aos Eiscir\|Aos Eiscir]]
+## [[Valor-of-Rain/Aos\|Aos Eiscir]]
 The Chronicler belongs to the Aos Eiscir, whom formed much of The Chronicler's values.
 
 ## Vermin of Valonier
@@ -37,7 +37,7 @@ https://www.owleyes.org/text/les-miserables/read/volume-v-jean-valjean-book-ii-t
 
 The Chronicler dons a cloak of white rabbit pelts, those of the heathen order Mwarf once belonged to.  ([[_Game Resources/_SRD/Spells/Speak with Dead\|Speak with Dead]] allows communion with the creatures sacrificed to make the cloak)
 
-The [[Shard of the Key to the Tomb\|Shard of the Key to the Tomb]] of [BARrY](BARrY) is but a fragment of an [[ancient amulet\|ancient amulet]] once carried by Mwarf.  It was said to be able to unlock the [Box](BARrY%20Box) that held BARrY captive.  The location of the other fragments are lost to time.
+The [[Shard of the Key to the Tomb\|Shard of the Key to the Tomb]] of [BARrY](BARrY.md) is but a fragment of an [[ancient amulet\|ancient amulet]] once carried by Mwarf.  It was said to be able to unlock the [Box](BARrY%20Box) that held [[Valor-of-Rain/BARrY\|BARrY]] captive.  The location of the other fragments are lost to time.
 # Chronicles 
 The Chronicles speak of an ancient order of knights, The [[Valor-of-Rain/Cult of Alstriza\|Cult of Alstriza]], whom with one of Mwarf’s First Company belonged to.  The COA are fierce foes and great allies.  The  [[Chroniclers\|Chroniclers]] still holds vestiges of this ancient alliance.
 

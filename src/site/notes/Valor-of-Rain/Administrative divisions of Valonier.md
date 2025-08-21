@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-23","type":"info","world":"Tor","campaign":null,"description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/valor-of-rain/administrative-divisions-of-valonier/","dgPassFrontmatter":true,"created":"2024-08-23T15:05:28.587+09:30","updated":"2025-07-26T00:53:43.713+09:30"}
+{"date":"2024-08-23","type":"info/world","world":"Tor","campaign":null,"description":null,"icon":"FasNoteSticky","tags":["sf"],"dg-publish":true,"permalink":"/valor-of-rain/administrative-divisions-of-valonier/","dgPassFrontmatter":true,"created":"2024-08-23T15:05:28.587+09:30","updated":"2025-08-21T12:53:41.747+09:30"}
 ---
 
 # 
