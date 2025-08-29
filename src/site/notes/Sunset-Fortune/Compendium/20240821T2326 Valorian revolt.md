@@ -1,22 +1,29 @@
 ---
-{"date":"2024-08-21","type":"info","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/sunset-fortune/compendium/20240821-t2326-valorian-revolt/","dgPassFrontmatter":true,"created":"2024-08-22T15:17:08.505+09:30","updated":"2025-03-07T15:39:29.811+10:30"}
+date: 2024-08-21
+type: info/world
+world: Tor
+campaign: Valor of Rain
+description:
+icon: FasNoteSticky
+tags:
+  - sf
+dg-publish: true
 ---
-
 
 > "*Hey let me know what you think of this, I took a bit of creative liberty and I'm not sure if this is the character direction you want to go with Jean Luc, so let me know how you would change it, if at all*"
 
 Sure.
 
 ---
->"*18 years ago when [Marcello Cobalt](Marcelo%20de%20Cobalt) died peacefully in his sleep, [Gabriel Cobalt](%20de%20Cobalt) took the crown, and in the same year made a deal with [[Harold Briskwalker\|Harold Briskwalker]] to funnel their trade stocks to Sylvanor for trade. [[Valor-of-Rain/Valonier\|Valonier]] was the last to join the alliance. The people were divided, some waiting their whole lives for the moment, and others taking arms against the crown.* "
+>"*18 years ago when [Marcello Cobalt](Marcelo%20de%20Cobalt) died peacefully in his sleep, [Gabriel Cobalt](%20de%20Cobalt) took the crown, and in the same year made a deal with [[Harold Briskwalker]] to funnel their trade stocks to Sylvanor for trade. [[Valonier]] was the last to join the alliance. The people were divided, some waiting their whole lives for the moment, and others taking arms against the crown.* "
 
 Who are the Cobalts?
 
 ---
-> "*One man in particular, Jean Luc, watched as the world he knew changed to something alien. The [Solarswords](SolarSwords.md) began to take control, and the pride of being a Valonian turned to ashes*". 
+> "*One man in particular, [[Jean-Luc]], watched as the world he knew changed to something alien. The [Solarswords](SolarSwords.md) began to take control, and the pride of being a Valonian turned to ashes*". 
  
  - Jean did not approve of the treaties from a nationalist’s perspective.
-	 - as he saw it, foreign interference in [[Valor-of-Rain/Valonier\|Valonier]]’s internal affairs was an precedented injustice.
+	 - as he saw it, foreign interference in [[Valonier]]’s internal affairs was an \[un]precedented injustice.
 	 - Before which he had held the monarchy in high regard
 
 ---
@@ -28,7 +35,7 @@ Himself only being recruited after the announcement of La Valér’s government�
  - presumably he got drunk in a bar and was overheard by insurgent who then snatched him before any secret police could
 	- maybe the insurgents were tailing him 
 		- either due to prior personal involvement with a high level member
-			- [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] might be a founding member of an insurgency triumvirate
+			- [[Madeleine]] might be a founding member of an insurgency [[le Triumvirat|triumvirate]]
 			- Perhaps planning to tie off possible loose ends
 		- or being a minor political figure
 	- perhaps the insurgents were just around and noticed a drunk about to get taken by secret police
@@ -36,30 +43,30 @@ Himself only being recruited after the announcement of La Valér’s government�
 	- Maybe even all three.
 
 ---
-> "*He gained the trust of several high lords who conspired against [[Gabriel\|Gabriel]],...*"
+> "*He gained the trust of several high lords who conspired against [[Gabriel]],...*"
 
 Given Jean is a minor noble and has high charisma, he is in a perfect position to secure funding for the insurgency from likeminded individuals within the nobility.
 
 ---
-> "*but everything changed when \[Jean's] brother [[Sunset-Fortune/Compendium/Raoul\|Raoul]] Luc discovered the plan.*"
+> "*but everything changed when \[Jean's] brother [[Raoul|Raoul]] Luc discovered the plan.*"
 
 Jean-Luc is an alias; a contraction of Jean de Luc 
 - John of Luc
 	- John being a common given name, 
 	- Luc being any one of several small Valorian towns
-- thus, [[Sunset-Fortune/Compendium/Raoul\|Raoul]]'s lastname would not be Luc
-	- Following French naming conventions, \[Given name] of the \[place] it would probably be [[Sunset-Fortune/Compendium/Raoul\|Raoul]] de [[Sunset-Fortune/Compendium/la Fere\|la Fere]]
-		- [[Sunset-Fortune/Compendium/la Fere\|la Fere]] being the placeholder name for their father's lands.
+- thus, [[Raoul|Raoul]]'s lastname would not be Luc
+	- Following French naming conventions, \[Given name] of the \[place] it would probably be [[Raoul|Raoul]] de [[la Fere]]
+		- [[la Fere]] being the placeholder name for their father's lands.
 	-  Also note: he is the son of a nobleman (i.e, due to inherent his father's title)
 
-Note to self: How did [[Sunset-Fortune/Compendium/Raoul\|Raoul]] discover the plan?
+Note to self: How did [[Raoul|Raoul]] discover the plan?
 
 ---
-> "*\[[[Raoul\|Raoul]]] trained to become a knight, and recently passed the academy.  He tried to reason with Jean, but \[Jean's] ideals were clear, and [[Sunset-Fortune/Compendium/Raoul\|Raoul]] betrayed Jean.*"
+> "*\[[[Raoul|Raoul]]] trained to become a knight, and recently passed the academy.  He tried to reason with Jean, but \[Jean's] ideals were clear, and [[Raoul|Raoul]] betrayed Jean.*"
 
-[[Sunset-Fortune/Compendium/Raoul\|Raoul]] was trained as a *chevalier* (knight) to join the _Garde du Corps_ (the Royal Guard)
+[[Raoul|Raoul]] was trained as a *chevalier* (knight) to join the _Garde du Corps_ (the Royal Guard)
 	A gentleman who has not yet obtained such status is referred to as *Mondamoiseau*
-Note to self: What is Jean and [[Sunset-Fortune/Compendium/Raoul\|Raoul]]'s relationship?
+Note to self: What is Jean and [[Raoul|Raoul]]'s relationship?
 
 ---
  > "*The organisation was quickly dismantled, with riots breaking out in the streets."
@@ -82,14 +89,14 @@ Note: doesn't necessarily matter who Jean's target is.
 - Rather, it depends on line of succession
 	- presumably in a coup there would be usurper to back.
 
->"*...however was stopped inches away from her neck by [[Sunset-Fortune/Compendium/Raoul\|Raoul]] who hastily arrived at the castle.*"
+>"*...however was stopped inches away from her neck by [[Raoul|Raoul]] who hastily arrived at the castle.*"
 
 Note to self: Need to touch more on their interaction
 
-Why was [[Sunset-Fortune/Compendium/Raoul\|Raoul]] at the castle?
+Why was [[Raoul|Raoul]] at the castle?
 - He's a member of the king's guard
 Why haste?
-- He discovered Jean was missing from his cell in the \[BASILICA EQUIVALENT] 
+- He discovered Jean was [[Jean's Escape|missing from his cell]] in the \[BASILICA EQUIVALENT] 
 	- He was release by insurgents so he could complete his assassination on the next-in-line-to-the-throne
 	- He immediately ran to the castle after this
 		- How catch up to Jean?
@@ -97,11 +104,11 @@ Why haste?
 			- There was a riot happening simultaneously
 				- Jean had to avoid angry crowds looking to execute noblemen
 					- Jean jumps from rooftops and alleys.
-				- [[Sunset-Fortune/Compendium/Raoul\|Raoul]] has the power of authority (and several well armed guardsmen at his side)
+				- [[Raoul|Raoul]] has the power of authority (and several well armed guardsmen at his side)
 
 Which castle?
-	The Citadel of [[Valor-of-Rain/Capitale\|Capitale]]?
-			[[Valor-of-Rain/Capitale\|Capitale]] being the capital/city of Valonifer
+	The Citadel of [[Capitale]]?
+			[[Capitale]] being the capital/city of Valonifer
 
 ---
 > "*The Coup failed before it started, and the start of a much deeper conflict had begun.*"

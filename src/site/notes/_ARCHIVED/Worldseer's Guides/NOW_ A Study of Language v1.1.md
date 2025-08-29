@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/archived/worldseer-s-guides/now-a-study-of-language-v1-1/","dgPassFrontmatter":true,"created":"2024-08-18T00:51:52.914+09:30","updated":"2025-08-06T15:52:46.420+09:30"}
+dg-publish: true
 ---
-
 #Archived
 [https://www.reddit.com/r/mattcolville/comments/10dmzyt/you\_cant\_lie\_in\_draconic\_making\_language/](https://www.reddit.com/r/mattcolville/comments/10dmzyt/you\_cant\_lie\_in\_draconic\_making\_language/)
 

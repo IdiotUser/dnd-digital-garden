@@ -1,14 +1,23 @@
 ---
-{"dg-publish":true,"date":"2024-09-03","campaign":"Valor of Rain","world":"Tor","hp":"20","ac":"13","icon":"FasSquarePersonConfined","tags":["VoR","chronicles","character"],"permalink":"/valor-of-rain/chronicler-sheet/","dgPassFrontmatter":true,"created":"2024-09-03T17:58:21.274+09:30","updated":"2025-07-23T18:16:16.590+09:30"}
+dg-publish: true
+date: 2024-09-03
+campaign: Valor of Rain
+world: Tor
+hp: "20"
+ac: "13"
+icon: FasSquarePersonConfined
+tags:
+  - VoR
+  - character
+type: sheet
 ---
 
-
-| **Class**         | [[_Game Resources/_SRD/Classes/Wizard\|Wizard]]                     |
+| **Class**         | [[Wizard]]                     |
 | ----------------- | ------------------------------ |
 | **Level**         | 4                              |
-| **Race**          | [[_Game Resources/_SRD/Races/Gnome#Forest\|Forest Gnome]] |
-| **[[_Game Resources/_SRD/Characterizations/Alignment\|Alignment]]** | Lawful Neutral                 |
-| **Background**    | *(see: [[Valor-of-Rain/Chronicler\|Chronicler]])*        |
+| **Race**          | [[Gnome#Forest\|Forest Gnome]] |
+| **[[Alignment]]** | Lawful Neutral                 |
+| **Background**    | *(see: [[Chronicler]])*        |
 | Age               | 144                            |
 
 --- 
@@ -24,15 +33,13 @@ HP: 20
 
 --- 
 ## Abilities 
-### [[_Game Resources/_SRD/Gameplay/Abilities\|Abilities]] 
+### [[Abilities]] 
 |    STR     | DEX | CON | INT  | WIS  | CHA |                  |
 | :--------: | :-: | :-: | :--: | :--: | :-: | ---------------- |
 |     8      | 13  | 14  |  17  |  14  |  8  | **Stats**        |
-| -1
-{ #strmod}
- | +1  | +2  |  +3  |  +2  | -1  | **Modifier**     |
+| -1 ^strmod | +1  | +2  |  +3  |  +2  | -1  | **Modifier**     |
 |     -1     | +1  | +2  | +5 ● | +4 ● | -1  | **Saving Throw** |
-### 
+### %%Calculations%%
 Standard Array
 
 |       | STR | DEX | CON | INT | WIS | CHA |
@@ -64,26 +71,26 @@ Standard Array
 |  ○   |   WIS   | Survival        | +1  |
 
 # Traits 
-## [[_Game Resources/_SRD/Races/Gnome\|Racial]]
+## [[Gnome|Racial]]
 ***Darkvision***. Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
 ***Gnome Cunning***. You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
 
 ***Languages***. You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
-[[_Game Resources/_SRD/Races/Gnome#Forest\|Forest Gnome]]
+[[Gnome#Forest|Forest Gnome]]
 ## Background
-[[_Game Resources/_SRD/Characterizations/Backgrounds/Urchin#City Secrets\|City Secrets]] (urchin)
+[[Urchin#City Secrets|City Secrets]] (urchin)
 ## Class
-[[_Game Resources/_SRD/Classes/Wizard#Spellcasting\|Spellcasting]]
-[[_Game Resources/_SRD/Classes/Wizard#Arcane Recovery\|Arcane Recovery]]
-[[_Game Resources/_SRD/Classes/Wizard#Order of Scribes\|Order of Scribes]]
+[[Wizard#Spellcasting|Spellcasting]]
+[[Wizard#Arcane Recovery|Arcane Recovery]]
+[[Wizard#Order of Scribes|Order of Scribes]]
 
 ## Proficiencies
 **[Armour](Armor.md):** None
 
-**[[_Game Resources/_SRD/Equipment/Weapons\|Weapons]]:** Daggers, darts, slings, quarterstaffs, light crossbows
+**[[Weapons]]:** Daggers, darts, slings, quarterstaffs, light crossbows
 
-**[[_Game Resources/_SRD/Equipment/Tools\|Tools]]:** None
+**[[Tools]]:** None
 
 **Saving Throws:** Intelligence, Wisdom
 
@@ -97,38 +104,45 @@ Gnomish - The Gnomish language, which uses the Dwarvish script, is renowned for 
 | Ritual Dagger | 0, 20/60 |    +3     | 1d4 P  | Finesse, light, thrown |
 
 
-# [[Valor-of-Rain/Chronicler#Equipment\|Equipment]]
+# [[Chronicler#Equipment|Equipment]]
 
 | CP  | SP  | EP  | GP  | PP  |
 | :-: | :-: | :-: | :-: | :-: |
-|     |     |     | 115 |     |
+|     |     |     | 175 |     |
 Mwarf's Cloak (Hide armour, 12AC + Dex (max +2))
 Ritual Dagger (2gp)
 Candle
 Glowing Paper dart
 Healing potion
 Scroll of Weapon Enchanting (elven on metal)
-
+Mechanical Spider (Homunculus, no bond)
 # Spells
 | Lvl   | 1st | 2nd |
 | ----- | --- | --- |
-| Slots | 3/4 | 2/3 |
+| Slots | 3/4 | 1/3 |
 Prep: 6
 ## Cantrips
-[[_Game Resources/_SRD/Spells/Minor Illusion\|Minor Illusion]] (racial)
-[[_Game Resources/_SRD/Spells/Message\|Message]]
-[[_Game Resources/_SRD/Spells/Mind Sliver\|Mind Sliver]]
-[[_Game Resources/_SRD/Spells/Prestidigitation\|Prestidigitation]]
-[[_Game Resources/_SRD/Spells/Mending\|Mending]]
+[[Minor Illusion]] (racial)
+[[Message]]
+[[Mind Sliver]]
+[[Prestidigitation]]
+[[Mending]]
 ## 1st lvl
- - [-] [[_Game Resources/_SRD/Spells/Absorb Elements\|Absorb Elements]]
- - [ ] [[_Game Resources/_SRD/Spells/Feather Fall\|Feather Fall]]
- - [-] [[_Game Resources/_SRD/Spells/Shield\|Shield]]
- - [-] [[_Game Resources/_SRD/Spells/Silent Image\|Silent Image]]
- - [-] [[_Game Resources/_SRD/Spells/Sleep\|Sleep]] Eh-ha wah
+ - [-] [[Absorb Elements]]
+ - [ ] [[Feather Fall]]
+ - [-] [[Shield]]
+ - [-] [[Silent Image]]
+ - [-] [[Sleep]] Eh-ha wah
+ - [ ] [[Web]]
+ - [ ] [[Comprehend Languages]]
+ - [ ] [[Ice Knife]]
+ - [ ] [[Fog Cloud]]
 
 ## 2nd lvl
- - [ ] [[_Game Resources/_SRD/Spells/Invisibility\|Invisibility]]
- - [ ] [[_Game Resources/_SRD/Spells/Enhance Ability\|Enhance Ability]]
- - [-] [[_Game Resources/_SRD/Spells/Maximillian's Earthen Grasp\|Maximillian's Earthen Grasp]]
- - [-] [[_Game Resources/_SRD/Spells/Vortex Warp\|Vortex Warp]]  
+ - [ ] [[Invisibility]]
+ - [ ] [[Enhance Ability]]
+ - [-] [[Maximillian's Earthen Grasp]]
+ - [-] [[Vortex Warp]]  %%Or Misty Step%%
+ - [ ] [[Phantasmal Force]]
+ - [ ] [[Mirror Image]]
+ 

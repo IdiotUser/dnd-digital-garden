@@ -1,7 +1,18 @@
 ---
-{"date":"2024-08-23","type":"info","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"fasScroll","tags":["Winters_Bane","info/character","VoR"],"dg-publish":true,"permalink":"/valor-of-rain/defunct-winters-bane-s-hunts/","dgPassFrontmatter":true,"created":"2025-03-06T12:27:05.402+10:30","updated":"2025-07-04T14:36:42.362+09:30"}
+date: 2024-08-23
+type: info
+world: Tor
+campaign: Valor of Rain
+description:
+icon: fasScroll
+tags:
+  - Winters_Bane
+  - info/character
+  - VoR
+  - DEFUNCT
+dg-publish: true
+defunct: true
 ---
-
 
 Journal Entry \#1  
 Cold today. Bite skin, make bones hurt. Good for hunt. Snowpanther tracks, fresh in snow. Scent of kill in air, good sign.

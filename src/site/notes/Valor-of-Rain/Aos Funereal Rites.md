@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"icon":"FasNoteSticky","permalink":"/valor-of-rain/aos-funereal-rites/","dgPassFrontmatter":true,"created":"2025-07-23T17:18:17.179+09:30","updated":"2025-07-26T00:12:20.627+09:30"}
+dg-publish: true
+icon: FasNoteSticky
+type: info
+campaign: Valor of Rain
 ---
-
 # Last Rites
 ## Preservation of skin 
 
-In generations past, tattoos were not an uncommon occurrence among the [[Valor-of-Rain/Aos\|Aos]], being viewed, if only from a historian, as a pragmatic media on which to write one’s history.  For a culture set on the preservation of such history, it seemed prudent to preserve a person’s painted pelt.  
+In generations past, tattoos were not an uncommon occurrence among the [[Aos]], being viewed, if only from a historian, as a pragmatic media on which to write one’s history.  For a culture set on the preservation of such history, it seemed prudent to preserve a person’s painted pelt.  
 
 Occasionally, forward thinking Aosi arrange their ink into regular shapes, going so far as to include dotted lines over which to cut, so that their skin might be bound between covers for easy of use. 
 
@@ -19,7 +21,7 @@ In modern times the practice is less common , especially among the younger gener
 
 # Final deposition
 
-Once the body is prepared, it brought to the [[Valor-of-Rain/Orchadia\|Orchadia]], where a tree becomes the memorial.  
+Once the body is prepared, it brought to the [[Orchadia]], where a tree becomes the memorial.  
 
 The final ceremony is a highly guarded secret, notable for not having any written mention among Aos texts accessible by our researchers.  It is unclear if the body is buried at the foot of the tree; is entombed within a hollow; or grows into the tree.  What is known is that the Aos are said to be able to commune with the dead within the orchard.  Such a process has not yet been observed.
 

@@ -1,12 +1,21 @@
 ---
-{"dg-publish":true,"date":"2024-02-06","campaign":"Sunset Fortune","world":"Tor","type":"location","tags":["location","sf","VoR","Valonier"],"icon":"FasLocationDot","permalink":"/valor-of-rain/valonier/","dgPassFrontmatter":true,"created":"2024-02-06T17:51:08.996+10:30","updated":"2025-03-07T16:12:32.334+10:30"}
+dg-publish: true
+date: 2024-02-06
+campaign: Sunset Fortune
+world: Tor
+type: location
+tags:
+  - location
+  - sf
+  - VoR
+  - Valonier
+icon: FasLocationDot
 ---
-
-![Valonier and surrounding regions.png|650](/img/user/Valor-of-Rain/Assets/Valonier%20and%20surrounding%20regions.png)
+![[Valonier and surrounding regions.png|650]]
 Valonier, a vassal state of...
-Valonier, the [[Rainlands\|Rainlands]] (French: terres pluvieuses)
-Home to the [[Lord of Rain\|Lord of Rain]]
-
+Valonier, the [[Rainlands]] (French: terres pluvieuses)
+Home to the [[Lord of Rain]]
+Rules by the [[Maison de Ambre]]
 vieillesse
 
 |           | Country     | Rel. country | Peoples (m/f) | rel. Language    |
@@ -17,17 +26,8 @@ vieillesse
 etmology: valonier (from valeria, form vales, from val)
 
 # Territories 
-*Main article: [[Valor-of-Rain/Administrative divisions of Valonier\|Administrative divisions of Valonier]]*
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/valor-of-rain/administrative-divisions-of-valonier/#introduction" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-# 
- 
-
-</div></div>
-
+*Main article: [[Administrative divisions of Valonier]]*
+![[Administrative divisions of Valonier#Introduction]]
 
 
 # Culture
@@ -35,7 +35,7 @@ etmology: valonier (from valeria, form vales, from val)
 Most names adhere to the convention of a given name(s), by-name
 
 e.g: \[NAME]-\[NAME] \[MARK*] \[NOUN]
-	Valsh: *[[Sunset-Fortune/Compendium/Jean-Luc\|Jean-Luc]] du Pont*
+	Valsh: *[[Jean-Luc]] du Pont*
 	Common: John-Luke of the bridge
 
 As *pont* is masculine, singular, and doesn't begin with a vowel/silent h, du is used.
@@ -58,7 +58,7 @@ Saint names [List of name days in France](https://en.wikipedia.org/wiki/List_of_
 ## Mores and Folkway
 Cafes & Pastry
 
-Haute cuizine — Highly regarded fine dining at the grande restaurants of [[Valor-of-Rain/Capitale\|Capitale]].  Characterised by exorbitant prices and exotic foods.  As such, accessible by the aristocracy and bourgeoisie almost exclusively.
+Haute cuizine — Highly regarded fine dining at the grande restaurants of [[Capitale]].  Characterised by exorbitant prices and exotic foods.  As such, accessible by the aristocracy and bourgeoisie almost exclusively.
 # Currency
 https://en.wikipedia.org/wiki/Solidus_(coin)#France
 

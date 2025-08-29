@@ -1,8 +1,28 @@
 ---
-{"date":"2024-08-17","campaign":"Valor of Rain","world":"Tor","type":"character","location":"Capitol","player":"(Grant)","race":null,"gender":"Male","class":null,"occupation":null,"faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","VoR","Winters_Bane"],"icon":"FasCircleUser","dg-publish":true,"permalink":"/valor-of-rain/defunct-winter-s-bane/","dgPassFrontmatter":true,"created":"2025-03-05T15:44:06.042+10:30","updated":"2025-07-04T14:36:00.387+09:30"}
+date: 2024-08-17
+campaign: Valor of Rain
+world: Tor
+type: character
+location: Capitol
+player: (Grant)
+race:
+gender: Male
+class:
+occupation:
+faction:
+met:
+rel: Company
+status: Alive
+active: Active
+tags:
+  - character
+  - VoR
+  - Winters_Bane
+  - DEFUNCT
+icon: FasCircleUser
+dg-publish: true
 ---
-
-![Winter's Bane.jpg](/img/user/Valor-of-Rain/Assets/Winter's%20Bane.jpg)
+![[Winter's Bane.jpg]]
 # Backstory:
 
 A man grew up in a forest where the snow never stopped falling, and the cold cut through to the bone. It was a harsh, unforgiving place, where survival was a matter of instinct. There was no family, no real name, just the endless white wilderness and the unyielding silence. The forest was both a prison and a refuge, its vastness a reminder that nothing lasted here—not even memories.

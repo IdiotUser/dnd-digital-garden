@@ -1,11 +1,26 @@
 ---
-{"date":"2024-08-23","type":"info","world":"Tor","campaign":null,"description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/valor-of-rain/administrative-divisions-of-valonier/","dgPassFrontmatter":true,"created":"2024-08-23T15:05:28.587+09:30","updated":"2025-07-26T00:53:43.713+09:30"}
+date: 2024-08-23
+type: info/world
+world: Tor
+campaign: null
+description: null
+icon: FasNoteSticky
+tags: sf
+dg-publish: true
 ---
-
-# 
- 
+# %%Introduction%%
+ %%
+ > [!DEFUNCT]
+| Division                                                             | ≈ Modern                                                            | Associated Title | e.g (in world)    | e.g                                                      |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------- | ----------------- | -------------------------------------------------------- |
+| Realm                                                                | France                                                              | King/Queen       | Valonier          |                                                          |
+| Region                                                               | Regions                                                             |                  | Flotteterra       | [Lang](https://en.wikipedia.org/wiki/County_of_Toulouse) |
+| Grand Demense                                                        | [départements](https://en.wikipedia.org/wiki/Departments_of_France) |                  | Valeurs-de pluies | Paris                                                    |
+| Fief                                                                 | [Cantons](https://en.wikipedia.org/wiki/Cantons_of_France)          |                  | [[Capitale]]       |                                                          |
+| [seigneurie](https://en.wikipedia.org/wiki/Manorialism#The_seigneur) | Communes                                                            | **seigneur**     |                   |                                                          |
+%%
 # Realm
-Due to it's reduced size, what remains of the realm of [[Valor-of-Rain/Valonier\|Valonier]] comprises of a single demense.  This demesne is broken into 15 fiefs, or Valeurs
+Due to it's reduced size, what remains of the realm of [[Valonier]] comprises of a single demense.  This demesne is broken into 15 fiefs, or Valeurs
 
 Realm (≈Country) (Kingdom of Valonier)
 Grand Demesne (≈départements)
@@ -34,7 +49,7 @@ Each Grande Demesne was designated as either a pairie-duché or pairie-comté fo
 
 ## [[]]
 Commune du capital (literally, capital municipality) is the most populous commune in Valonier.  It serves as the *généralités* (pronunciation: [ʒeneʁalite](https://en.wikipedia.org/wiki/Help:IPA/French)) of the Valeurs-de pluies Grand Demense.
-### [[Valor-of-Rain/Capitale\|Capitale]]
+### [[Capitale]]
 Once the city of Lutetia, Valonier proper is the last of the Great Walled Cities of the Vals within Valonier, and one of only 3 that are still standing.  Valonier- is defined by the ancient stone walls that encircle its borders, separating it from the rest of the city and Greater Valonier.
 
 
