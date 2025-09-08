@@ -1,5 +1,5 @@
 ---
-{"type":"tale","icon":"fasScroll","dg-publish":true,"permalink":"/valor-of-rain/jean-s-escape/","dgPassFrontmatter":true,"created":"2025-08-20T20:36:26.064+09:30","updated":"2025-09-08T12:07:55.267+09:30"}
+{"type":"tale","icon":"fasScroll","dg-publish":true,"permalink":"/valor-of-rain/jean-s-escape/","dgPassFrontmatter":true,"created":"2025-08-20T20:36:26.064+09:30","updated":"2025-09-08T12:08:10.284+09:30"}
 ---
 
 [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]] lies on his bare cot, in the tiny stone-walled cell, facing the sea.  He listens as the wind howls, and the guards do their rounds.  Two pairs of footsteps every few minutes, like clockwork.  Until something new.  A single set of footsteps getting louder, and then stopping before his door, and knocking.
