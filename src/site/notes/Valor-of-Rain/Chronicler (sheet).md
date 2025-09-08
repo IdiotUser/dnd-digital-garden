@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"date":"2024-09-03","campaign":"Valor of Rain","world":"Tor","hp":"20","ac":"13","icon":"FasSquarePersonConfined","tags":["VoR","chronicles","character"],"permalink":"/valor-of-rain/chronicler-sheet/","dgPassFrontmatter":true,"created":"2024-09-03T17:58:21.274+09:30","updated":"2025-07-16T18:11:55.618+09:30"}
+{"dg-publish":true,"date":"2024-09-03","campaign":"Valor of Rain","world":"Tor","hp":"20","ac":"13","icon":"FasSquarePersonConfined","tags":["VoR","character"],"type":"sheet","permalink":"/valor-of-rain/chronicler-sheet/","dgPassFrontmatter":true,"created":"2024-09-03T17:58:21.274+09:30","updated":"2025-08-29T10:58:24.285+09:30"}
 ---
 
 
 | **Class**         | [[_Game Resources/_SRD/Classes/Wizard\|Wizard]]                     |
 | ----------------- | ------------------------------ |
-| **Level**         | 3                              |
+| **Level**         | 4                              |
 | **Race**          | [[_Game Resources/_SRD/Races/Gnome#Forest\|Forest Gnome]] |
 | **[[_Game Resources/_SRD/Characterizations/Alignment\|Alignment]]** | Lawful Neutral                 |
 | **Background**    | *(see: [[Valor-of-Rain/Chronicler\|Chronicler]])*        |
@@ -16,11 +16,11 @@
 | HP  | AC  | Speed | Initiative |
 | :-: | :-: | :---: | :--------: |
 | 20  | 13  |  25   |     +1     |
-HP: 8
+HP: 20
 
 | Hit Dice | Proficiency Bonus | Temp HP |
 | :------: | :---------------: | :-----: |
-|   9d8    |        +2         |         |
+| (9-6)d8  |        +2         |         |
 
 --- 
 ## Abilities 
@@ -101,33 +101,41 @@ Gnomish - The Gnomish language, which uses the Dwarvish script, is renowned for 
 
 | CP  | SP  | EP  | GP  | PP  |
 | :-: | :-: | :-: | :-: | :-: |
-|     |     |     | 115 |     |
+|     |     |     | 175 |     |
 Mwarf's Cloak (Hide armour, 12AC + Dex (max +2))
 Ritual Dagger (2gp)
 Candle
 Glowing Paper dart
 Healing potion
 Scroll of Weapon Enchanting (elven on metal)
-
+Mechanical Spider (Homunculus, no bond)
 # Spells
 | Lvl   | 1st | 2nd |
 | ----- | --- | --- |
-| Slots | 3/4 | 1/2 |
+| Slots | 3/4 | 1/3 |
 Prep: 6
 ## Cantrips
 [[_Game Resources/_SRD/Spells/Minor Illusion\|Minor Illusion]] (racial)
 [[_Game Resources/_SRD/Spells/Message\|Message]]
 [[_Game Resources/_SRD/Spells/Mind Sliver\|Mind Sliver]]
 [[_Game Resources/_SRD/Spells/Prestidigitation\|Prestidigitation]]
+[[_Game Resources/_SRD/Spells/Mending\|Mending]]
 ## 1st lvl
  - [-] [[_Game Resources/_SRD/Spells/Absorb Elements\|Absorb Elements]]
  - [ ] [[_Game Resources/_SRD/Spells/Feather Fall\|Feather Fall]]
  - [-] [[_Game Resources/_SRD/Spells/Shield\|Shield]]
  - [-] [[_Game Resources/_SRD/Spells/Silent Image\|Silent Image]]
  - [-] [[_Game Resources/_SRD/Spells/Sleep\|Sleep]] Eh-ha wah
+ - [ ] [[_Game Resources/_SRD/Spells/Web\|Web]]
+ - [ ] [[_Game Resources/_SRD/Spells/Comprehend Languages\|Comprehend Languages]]
+ - [ ] [[_Game Resources/_SRD/Spells/Ice Knife\|Ice Knife]]
+ - [ ] [[_Game Resources/_SRD/Spells/Fog Cloud\|Fog Cloud]]
 
 ## 2nd lvl
  - [ ] [[_Game Resources/_SRD/Spells/Invisibility\|Invisibility]]
  - [ ] [[_Game Resources/_SRD/Spells/Enhance Ability\|Enhance Ability]]
  - [-] [[_Game Resources/_SRD/Spells/Maximillian's Earthen Grasp\|Maximillian's Earthen Grasp]]
  - [-] [[_Game Resources/_SRD/Spells/Vortex Warp\|Vortex Warp]]  
+ - [ ] [[_Game Resources/_SRD/Spells/Phantasmal Force\|Phantasmal Force]]
+ - [ ] [[_Game Resources/_SRD/Spells/Mirror Image\|Mirror Image]]
+ 

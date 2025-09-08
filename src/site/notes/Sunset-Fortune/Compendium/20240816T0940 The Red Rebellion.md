@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-16","campaign":"Sunset Fortune","world":"Tor","type":"info","tags":["sf","info/world"],"icon":"FasNoteSticky","dg-publish":true,"permalink":"/sunset-fortune/compendium/20240816-t0940-the-red-rebellion/","dgPassFrontmatter":true,"created":"2024-08-22T23:03:14.973+09:30","updated":"2025-03-06T18:08:59.693+10:30"}
+{"date":"2024-08-16","campaign":"Sunset Fortune","world":"Tor","type":"info/world","tags":["sf"],"icon":"FasNoteSticky","dg-publish":true,"permalink":"/sunset-fortune/compendium/20240816-t0940-the-red-rebellion/","dgPassFrontmatter":true,"created":"2024-08-22T23:03:14.973+09:30","updated":"2025-08-27T22:05:30.745+09:30"}
 ---
 
 > "Basically all the kingdoms of Alastria[^1] are monarch\[ies\]"
@@ -8,8 +8,8 @@
 > "The Great war[^18] happened"
 > "And 170 years later is now Sunset Fortune[^19]"
 
-Throughout the Red Rebellion, all of the Valonian boarderlands were conquered, and much of the Heartlands.  After the assassination of Odo III, King of the Vals (latin: *rex Valorum*), what remained of the [[Amberlords\|Amberlords]] - House of Amber (*maison d'Ambre*) - surrendered.  As part of the signing of the peace treaty:
-1. The [[Amberlords\|Amberlords]]' frontier military was dissolved, all assets being seized.
+Throughout the Red Rebellion, all of the Valonian boarderlands were conquered, and much of the Heartlands.  After the assassination of Odo III, King of the Vals (latin: *rex Valorum*), what remained of the [[Valor-of-Rain/Maison de Ambre\|Maison de Ambre]] - House of Amber (*maison d'Ambre*) - surrendered.  As part of the signing of the peace treaty:
+1. The [[Valor-of-Rain/Maison de Ambre\|Maison de Ambre]]' frontier military was dissolved, all assets being seized.
 2. Captured lands of the Kingdom of Valonier, greatest of the 7 kingdoms, was split amongst the usurper's supporters.
 3. The Valorian mint was heavily regulated, the value of its coin being directly linked to equivalent Alastrian coin.  All Valorians must accept Alastrian coin as legal tender, and Valorian coin is not accepted outside of Valonier.
 4. St NAME and its lands became Solarsword teritory.
@@ -37,7 +37,7 @@ As part of their conditions,
 [^9]: Why?
 [^10]: Who? (in terms of lineage)
 [^11]: Which nation?  [[Alastria\|Alastria]] or a kingdom?
-[^12]: [[Briskwalkers\|Briskwalkers]], [[Silverharts\|Silverharts]], and [[Amberlords\|Amberlords]]?
+[^12]: [[Briskwalkers\|Briskwalkers]], [[Silverharts\|Silverharts]], and [[Valor-of-Rain/Maison de Ambre\|Maison de Ambre]]?
 [^13]: Why are they the main 3?  Relation to the 7?
 [^14]: All of [[Alastria\|Alastria]]?
 [^15]: How?

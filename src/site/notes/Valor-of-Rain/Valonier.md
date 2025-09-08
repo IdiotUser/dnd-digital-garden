@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"date":"2024-02-06","campaign":"Sunset Fortune","world":"Tor","type":"location","tags":["location","sf","VoR","Valonier"],"icon":"FasLocationDot","permalink":"/valor-of-rain/valonier/","dgPassFrontmatter":true,"created":"2024-02-06T17:51:08.996+10:30","updated":"2025-03-07T16:12:32.334+10:30"}
+{"dg-publish":true,"date":"2024-02-06","campaign":"Sunset Fortune","world":"Tor","type":"location","tags":["location","sf","VoR","Valonier"],"icon":"FasLocationDot","permalink":"/valor-of-rain/valonier/","dgPassFrontmatter":true,"created":"2024-02-06T17:51:08.996+10:30","updated":"2025-08-29T10:57:12.407+09:30"}
 ---
 
 ![Valonier and surrounding regions.png|650](/img/user/Valor-of-Rain/Assets/Valonier%20and%20surrounding%20regions.png)
 Valonier, a vassal state of...
 Valonier, the [[Rainlands\|Rainlands]] (French: terres pluvieuses)
 Home to the [[Lord of Rain\|Lord of Rain]]
-
+Rules by the [[Valor-of-Rain/Maison de Ambre\|Maison de Ambre]]
 vieillesse
 
 |           | Country     | Rel. country | Peoples (m/f) | rel. Language    |

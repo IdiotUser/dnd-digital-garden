@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2025-07-04","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"npc","location":null,"faction":null,"status":null,"icon":"FasPerson","tags":["sf","npc"],"permalink":"/valor-of-rain/marshal-soult/","dgPassFrontmatter":true,"created":"2025-07-04T14:32:30.166+09:30","updated":"2025-07-04T14:35:34.833+09:30"}
+{"dg-publish":true,"date":"2025-07-04","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"npc","location":null,"faction":null,"status":null,"icon":"FasPerson","tags":null,"permalink":"/valor-of-rain/marshal-soult/","dgPassFrontmatter":true,"created":"2025-07-04T14:32:30.166+09:30","updated":"2025-08-29T10:57:37.602+09:30"}
 ---
 
  Jean-de-Dieu Soult is a (race::Human) (gender:: Female) (occupation::General of France) 

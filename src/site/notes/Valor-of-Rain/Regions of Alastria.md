@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2024-08-26","type":"info/world","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"FasNoteSticky","tags":["info/world","sf"],"permalink":"/valor-of-rain/regions-of-alastria/","dgPassFrontmatter":true,"created":"2024-08-26T15:18:01.337+09:30","updated":"2024-08-27T23:24:11.166+09:30"}
+{"dg-publish":true,"date":"2024-08-26","type":"info/world","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"FasNoteSticky","tags":["info/world","sf"],"permalink":"/valor-of-rain/regions-of-alastria/","dgPassFrontmatter":true,"created":"2024-08-26T15:18:01.337+09:30","updated":"2025-08-29T10:57:20.747+09:30"}
 ---
 
 

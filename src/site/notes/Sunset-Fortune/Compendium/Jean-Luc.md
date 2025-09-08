@@ -1,5 +1,5 @@
 ---
-{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"character","location":"Zenanthi","player":"(Michael)","description":"French","race":"Human","gender":"M","class":"Rogue","occupation":"Sailor","faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["character","sf"],"icon":"FasCircleUser","aliases":"Jean","dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","dgPassFrontmatter":true,"created":"2024-01-26T22:19:08.531+10:30","updated":"2025-03-14T22:52:59.332+10:30"}
+{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","type":"pc","location":"Zenanthi","player":"(Michael)","description":"French","race":"Human","gender":"M","class":"Rogue","occupation":"Sailor","faction":null,"met":null,"rel":"Company","status":"Alive","active":"Active","tags":["sf"],"icon":"FasCircleUser","aliases":"Jean","dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc/","dgPassFrontmatter":true,"created":"2024-01-26T22:19:08.531+10:30","updated":"2025-08-27T23:11:21.290+09:30"}
 ---
 
 Jean-Luc Dupont, A transient Valorian political dissident 
@@ -22,34 +22,8 @@ is [Missing his right hand](3.10.07_20230722%20Commotion%20at%20Candlekeep.md#Lo
 **Grandfather** (16 quarterings) inherits run-down estate, marries commoner, has son, sells estate to a friend (who's father, taking pity, provides a letter of recommendation to military service), buys equipment necessary to..., gain higher status through military service (*Noblesse militaire*)[^1], 20 long years of service, succeeds - providing increased future prospects for son and is re-estate-d as *comte de la Fère* a demesne within *Valonier*, KIA.
 
 Chasteau de Meullant
-
-**Father** (8 quarterings) 
-- is raised as commoner, 
-- gains privileges, 
-- doesn't forget past (good), 
-- marries artist (commoner),  Esmée?
-- does military service, 
-- has son, [####-07-08](https://en.wikipedia.org/wiki/List_of_name_days_in_France)
-	- [[Sunset-Fortune/Compendium/Raoul\|Raoul]] (4 quarterings), 
-	- hires teachers for [[Sunset-Fortune/Compendium/Raoul\|Raoul]] (prefers combat), 
-	- teachers dislike commoner mother and turn [[Sunset-Fortune/Compendium/Raoul\|Raoul]] against her, 
-	- [[Sunset-Fortune/Compendium/Raoul\|Raoul]] is brat, 
-- has son2, [####-07-13](https://en.wikipedia.org/wiki/List_of_name_days_in_France) 
-	- raises son better(?), 
-	- hires new teachers for son2, 
-	- son2 is less brat,
-	- but isn't very smart, 
-		- still learns, 
-			- but prefers artist stuff with mother 
-				- ~~(except politics, enjoys politics),~~ 
-- has daughter [####-07-22](https://en.wikipedia.org/wiki/List_of_name_days_in_France)
-	- [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]]
-	- [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] is best
-	- [[Sunset-Fortune/Compendium/Raoul\|son2]] enjoys lessons (especially politics, but has opposing opinions to teachers), good at arts, ect.  
-- becomes widower, 
-- Happy peasents don't cause unrest.
 ## Childhood
-Born to a minor noble, Oliver de la Fère[^4] was... 
+Born to a minor noble, Olivier de la Fère[^4] was... 
 
 > [!info]- Musketeer
 > As one of the junior units in the Royal Guard, the Musketeers were not closely linked to the royal family. Traditional bodyguard duties were in fact performed by the _[Gardes du Corps](<https://en.wikipedia.org/wiki/Gardes_du_Corps_du_Roi_%28France%29>)_ and the _[Cent-suisses](https://en.wikipedia.org/wiki/Swiss_Guards "Swiss Guards")_. Because of its later establishment, the Musketeers were open to the lower classes of French nobility or younger sons from noble families whose oldest sons served in the more prestigious _Garde du Corps_ and _Chevau-legers_ (Light Horse). The Musketeers, many of them still teenagers, soon gained a reputation for fighting spirit and unruly behaviour. 
@@ -58,9 +32,9 @@ ou
 
 les enfants perdus (Forlorn Hope, literally *"the lost children"*)[^5]
 ## Revolution
-By day, Oliver used his status as a minor nobleman to attend parties and secure funding for the organisation.  He dressed lavishly, as a jeunesse dorée (dandy, literally *"gilded youth"*) was one to do, and practiced the art of auto-pogonotomy on every second morning to maintain his stunning physique.  He also partakes in the poisoning of those who he deems worthy (notably better dressed dandies, and those that have too much.
+By day, Olivier used his status as a minor nobleman to attend parties and secure funding for the organisation.  He dressed lavishly, as a jeunesse dorée (dandy, literally *"gilded youth"*) was one to do, and practiced the art of auto-pogonotomy on every second morning to maintain his stunning physique.  He also partakes in the poisoning of those who he deems worthy (notably better dressed dandies, and those that have too much.
 
-During his revolutionary insurgency, he adopted the *nom de guerre* "rouget de Valseillaise[^3]", — rouget being a common porcine infectious disease, essentially, he was the pig killer of Valseille —  where he learnt the Verlan argot (thieve's cant).
+During his revolutionary insurgency, he adopted the *nom de guerre* "rouget de Valseillaise[^3]", — rouget being a common porcine infectious disease, essentially, he was the pig killer of [[Valseille\|Valseille]] —  where he learnt the Verlan argot (thieve's cant).
 
 In a sufficiently large city/state/populace (such as _La Valér_, [[Valor-of-Rain/Valonier\|Valonier]]) might there be enough people of opposing views on the  to stage a revolt? Perhaps one that succeeds in occupying the population centre for long enough to declare independence as a republic and execute several nobles and aristocrats (including any memebers of the [Solarswords](SolarSwords.md) foolish enough to walk through town in their livery, or anyone known to associate with them to the perceived detriment of the people), but being quickly vanquished by a legion of [Solarswords](SolarSwords.md), leading to increased [Solarswords](SolarSwords.md) activity in attempts to prevent revolutionary ideas (perhaps leading to further discontent), execution of the ringleaders and imprisonment to anyone who participated in illegal activities, and the fleeing of certain members of said revolt?
 >  Well

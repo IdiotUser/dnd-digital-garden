@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-21","type":"info","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"FasNoteSticky","tags":["sf","info/world"],"dg-publish":true,"permalink":"/sunset-fortune/compendium/20240821-t2326-valorian-revolt/","dgPassFrontmatter":true,"created":"2024-08-22T15:17:08.505+09:30","updated":"2025-03-07T15:39:29.811+10:30"}
+{"date":"2024-08-21","type":"info/world","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"FasNoteSticky","tags":["sf"],"dg-publish":true,"permalink":"/sunset-fortune/compendium/20240821-t2326-valorian-revolt/","dgPassFrontmatter":true,"created":"2024-08-22T15:17:08.505+09:30","updated":"2025-08-26T15:55:23.888+09:30"}
 ---
 
 
@@ -13,10 +13,10 @@ Sure.
 Who are the Cobalts?
 
 ---
-> "*One man in particular, Jean Luc, watched as the world he knew changed to something alien. The [Solarswords](SolarSwords.md) began to take control, and the pride of being a Valonian turned to ashes*". 
+> "*One man in particular, [[Sunset-Fortune/Compendium/Jean-Luc\|Jean-Luc]], watched as the world he knew changed to something alien. The [Solarswords](SolarSwords.md) began to take control, and the pride of being a Valonian turned to ashes*". 
  
  - Jean did not approve of the treaties from a nationalist’s perspective.
-	 - as he saw it, foreign interference in [[Valor-of-Rain/Valonier\|Valonier]]’s internal affairs was an precedented injustice.
+	 - as he saw it, foreign interference in [[Valor-of-Rain/Valonier\|Valonier]]’s internal affairs was an \[un]precedented injustice.
 	 - Before which he had held the monarchy in high regard
 
 ---
@@ -28,7 +28,7 @@ Himself only being recruited after the announcement of La Valér’s government�
  - presumably he got drunk in a bar and was overheard by insurgent who then snatched him before any secret police could
 	- maybe the insurgents were tailing him 
 		- either due to prior personal involvement with a high level member
-			- [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] might be a founding member of an insurgency triumvirate
+			- [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] might be a founding member of an insurgency [[Valor-of-Rain/le Triumvirat\|triumvirate]]
 			- Perhaps planning to tie off possible loose ends
 		- or being a minor political figure
 	- perhaps the insurgents were just around and noticed a drunk about to get taken by secret police
@@ -89,7 +89,7 @@ Note to self: Need to touch more on their interaction
 Why was [[Sunset-Fortune/Compendium/Raoul\|Raoul]] at the castle?
 - He's a member of the king's guard
 Why haste?
-- He discovered Jean was missing from his cell in the \[BASILICA EQUIVALENT] 
+- He discovered Jean was [[Valor-of-Rain/Jean's Escape\|missing from his cell]] in the \[BASILICA EQUIVALENT] 
 	- He was release by insurgents so he could complete his assassination on the next-in-line-to-the-throne
 	- He immediately ran to the castle after this
 		- How catch up to Jean?

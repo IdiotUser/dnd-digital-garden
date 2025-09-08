@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2024-10-14","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["sf","faction"],"icon":"FasUsers","permalink":"/valor-of-rain/harlocke-family-1e/","dgPassFrontmatter":true,"created":"2024-10-14T13:41:29.872+10:30","updated":"2025-03-06T13:07:07.221+10:30"}
+{"dg-publish":true,"date":"2024-10-14","campaign":"Sunset Fortune","world":"Tor","game_date":null,"type":"faction","first mentioned":null,"met":null,"rel":null,"tags":["sf","faction"],"icon":"FasUsers","permalink":"/valor-of-rain/harlocke-family-1e/","dgPassFrontmatter":true,"created":"2024-10-14T13:41:29.872+10:30","updated":"2025-08-29T10:58:12.427+09:30"}
 ---
 
 *Main Article: [Harlocke Family](https://docs.google.com/document/d/17jUQunA8RuHEjGni2In7sa49MJ713XFDA6A4ZlBIc_Y/edit?tab=t.0)*

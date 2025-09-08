@@ -1,5 +1,5 @@
 ---
-{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","hp":null,"ac":null,"icon":"FasSquarePersonConfined","tags":["sf"],"dg-publish":true,"permalink":"/sunset-fortune/compendium/jean-luc-sheet/","dgPassFrontmatter":true,"created":"2024-01-29T12:53:23.472+10:30","updated":"2025-07-22T12:55:04.070+09:30"}
+{"date":"2023-08-05","campaign":"Sunset Fortune","world":"Tor","hp":null,"ac":null,"icon":"FasSquarePersonConfined","tags":["sf"],"dg-publish":true,"type":"sheet","permalink":"/sunset-fortune/compendium/jean-luc-sheet/","dgPassFrontmatter":true,"created":"2024-01-29T12:53:23.472+10:30","updated":"2025-08-21T12:58:37.251+09:30"}
 ---
 
 

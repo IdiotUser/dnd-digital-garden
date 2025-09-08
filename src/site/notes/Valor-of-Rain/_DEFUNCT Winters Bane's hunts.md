@@ -1,5 +1,5 @@
 ---
-{"date":"2024-08-23","type":"info","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"fasScroll","tags":["Winters_Bane","info/character","VoR"],"dg-publish":true,"permalink":"/valor-of-rain/defunct-winters-bane-s-hunts/","dgPassFrontmatter":true,"created":"2025-03-06T12:27:05.402+10:30","updated":"2025-07-04T14:36:42.362+09:30"}
+{"date":"2024-08-23","type":"info","world":"Tor","campaign":"Valor of Rain","description":null,"icon":"fasScroll","tags":["Winters_Bane","info/character","VoR","DEFUNCT"],"dg-publish":true,"defunct":true,"permalink":"/valor-of-rain/defunct-winters-bane-s-hunts/","dgPassFrontmatter":true,"created":"2025-03-06T12:27:05.402+10:30","updated":"2025-08-21T12:55:06.502+09:30"}
 ---
 
 
