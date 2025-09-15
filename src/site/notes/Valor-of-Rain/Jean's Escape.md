@@ -1,5 +1,5 @@
 ---
-{"type":"tale","icon":"fasScroll","dg-publish":true,"permalink":"/valor-of-rain/jean-s-escape/","dgPassFrontmatter":true,"created":"2025-08-20T20:36:26.064+09:30","updated":"2025-09-08T12:08:10.284+09:30"}
+{"type":"tale","icon":"fasScroll","dg-publish":true,"permalink":"/valor-of-rain/jean-s-escape/","dgPassFrontmatter":true,"created":"2025-08-20T20:36:26.064+09:30","updated":"2025-09-15T13:58:29.645+09:30"}
 ---
 
 [[Sunset-Fortune/Compendium/Jean-Luc\|Jean]] lies on his bare cot, in the tiny stone-walled cell, facing the sea.  He listens as the wind howls, and the guards do their rounds.  Two pairs of footsteps every few minutes, like clockwork.  Until something new.  A single set of footsteps getting louder, and then stopping before his door, and knocking.
@@ -8,7 +8,7 @@
 
 “Oui?”
 
-“Monsieur La Fere?” Jean does not recognise the voice.
+“Monsieur [[Sunset-Fortune/Compendium/La Fere\|La Fere]]?” Jean does not recognise the voice.
 
 “Oui,” Jean wonders if his time has come.
 
@@ -101,11 +101,11 @@ Not feeling particularly well rested, Jean bemoaned his life as he was awoken by
 
 Last night – or perhaps earlier this night – the safe-house had muffled the chaos of the street.  The quiet had been comforting inside.  Now it was eerily quiet, you could have been forgiven for thinking the city had been deserted.  Only distant fires, and the occasional boom of a canon suggested to where the tide of revolutionaries had turned their efforts.
 
-They stalked through the mostly empty streets, empty of people, not of the discards of ransacked shops and homes.  Occasionally, as they would pass similarly displaced figures, both parties ducking similarly into alcoves, or backtracking through narrower streets.  The pace was slow, and once they had to navigate through a surprisingly well established pile of refuse, in which a [[Valor-of-Rain/Chronicler\|ratty figure]] was settled.  Eventually they stopped in an alley that opened onto a larger street.  Opposite the alley was a tavern, notable for being the only place that had looked ransacked before the looting had started.  There in the alley they waited.
+They stalked through the mostly empty streets, empty of people, not of the discards of ransacked shops and homes.  Occasionally, as they would pass similarly displaced figures, both parties ducking similarly into alcoves, or backtracking through narrower streets.  The pace was slow, and once they had to navigate through a surprisingly well established pile of refuse, in which a [[Valor-of-Rain/Chronicler\|ratty figure]] was settled.  Eventually they stopped in an alley that opened onto a larger street.  Opposite the alley was a [[Valor-of-Rain/The Crook\|tavern]], notable for being the only place that had looked ransacked before the looting started.  There in the alley they waited.
 
 The building slouched smugly on its neighbours, a quirk of shoddy architecture that had meant a discounted rent, and lower property values on the whole street.  Several times it had been slated for a facelift – once even for demolition – by prospecting young city planners.  Whenever such ideas became plans, the planner was shut down by a visit from a stranger, and a heavy purse.  Usually this was motivation enough for the overworked and under-appreciated staff at the city planning office.  For one man, it was not.  When he returned to work a few days later, looking the worse for wear, his coworkers declined to comment.
 
-Marcel was beginning to nodded off when Aude pointed up to a lit candle in the window of an upper story that had not been lit before.  Jean shook Marcel awake and they proceeded to the front door of their slice of the revolution.  Jean tried the lock, thought for a moment, then knocked thrice and twice more.
+Marcel was beginning to nodded off when Aude pointed up to a lit candle in the window of an upper story that had not been seen before.  Jean shook Marcel awake and they proceeded to the front door of their slice of the revolution.  Jean tried the lock, thought for a moment, then knocked thrice and twice more.
 
 "We changed the code," said Aude.
 
@@ -117,7 +117,13 @@ The door swung open as Jean made a comment to the room, informing them he could 
 
 ...
 
-Jean was brought upstairs to a sitting room by scraggily young man – with what, in Jean's estimations, was a lesser moustache than his own – who left hastily, closing the door behind him.  The room was well furnished – if not worn and outdated, halfway to historic even – besides the door he had come through, there was a set of heavy wooden doors, and a small window.[^2]
+...
+
+The store room, which has once held their jealously guarded supplies, meticulously gathered over the years, was now empty.  Sent off to the barricade to be spent as cheaply as the lives of martyrs.  And it was [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]] who had gone now to do so, trading souls by the dozen for a few hundred feet in a city quickly falling to ruin.
+
+...
+
+Jean was brought upstairs to a sitting room by scraggily young man[^3] – with what, in Jean's estimations, was a lesser moustache than his own – who left hastily, closing the door behind him.  The room was well furnished – if not worn and outdated, nearing historic – besides the door he had come through, there was a set of heavy wooden doors, and a small window.[^2]
 
 ...
 
@@ -146,7 +152,7 @@ Jean opened one eye to [[Sunset-Fortune/Compendium/Madeleine\|Madeleine]], one o
 "The [[Gabriel\|King]] has ways of getting information without you speaking, Olivér," countered Madeleine, 
 "and anyway, that is not the reason."
 
-"Is it because of our strong familial bond?" suggest Jean, which earns him a tired look.
+"Is it because of our strong familial bond?" suggested Jean, which earned him a tired look.
 
 "You know the reason."
 
@@ -166,7 +172,7 @@ Madeleine presents a pair of toggles.  Jean watches as she lets one fall, which 
 
 "I know."
 
-Jean takes the garrotte.
+Jean took the garrotte.
 
 ---
 
@@ -263,7 +269,7 @@ And it made him sick.
 ---
 
   
-## Jean's brith
+# Jean's brith
 Le Rouget was dead.  They had picked him up in a public house, drunk, and bragging about his exploits.  
 It was found that his name was Raphael du Pont, a labourer.  He had acted alone.
 After his confession, he was dragged of to madam guillotine.
@@ -277,3 +283,4 @@ Only four people knew the truth.  The de la Fere siblings, and the boy's mother.
 
 
 Olivér had fled the city.  Before he left, he had read Raoul's name in the broadsheet; ‚"saviour of the princess!  Raoul de la Fere (newly appointed head of the Royal Guard) had narrowly prevented the assassination of Juliette, heir apparent of Maison de Ambre.  Long live the king"  No word of Madeleine, but that was probably a good thing.  If she had survived the coup, Oliver hoped she would lay low for a while.  Knowing her, Madeleine was probably already planning the counter offence, without her chief cut-throat and personal guard, having failed his last assignment.  Struck by sudden sense of melancholy, Oliver decided to read the obituaries.  He was surprised to find his own name‚"Olivér de la Fere‚" in clean blackletter.
+[^3]: Originally, this was Victorio, but not anymore, seeing as Victorio is now the leader of a different faction
